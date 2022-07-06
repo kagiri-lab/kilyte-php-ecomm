@@ -4,49 +4,88 @@ $breadcrumb = "Contact";
 $this->title = "$breadcrumb - {{site-name}}"
 
 ?>
+<?php require('breadcrumb.php') ?>
 
-<div class="main">
-  <div class="container">
-    <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-      <li class="active"><?= $breadcrumb ?></li>
-    </ul>
-    <!-- BEGIN SIDEBAR & CONTENT -->
-    <div class="row margin-bottom-40">
-      <!-- BEGIN SIDEBAR -->
-      <?php require('login-side-menu.php') ?>
-      <!-- END SIDEBAR -->
-
-      <!-- BEGIN CONTENT -->
-      <div class="col-md-9 col-sm-9">
-        <h1>Contact</h1>
-        <div class="content-page">
-          <h2>Contact Form</h2>
-          <p>Lorem ipsum dolor sit amet, Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat consectetuer adipiscing elit, sed diam nonummy nibh euismod tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-
-          <!-- BEGIN FORM-->
-          <form action="#" class="default-form" role="form">
-            <div class="form-group">
-              <label for="name">Name</label>
-              <input type="text" class="form-control" id="name">
+<!-- Contact -->
+<section class="contact-area">
+    <div id="map"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-5">
+                <div class="contact-box-tp">
+                    <h4>Contact Info</h4>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="contact-box d-flex">
+                            <div class="contact-icon">
+                                <i class="fa fa-map-marker"></i>
+                            </div>
+                            <div class="contact-content">
+                                <h6>Our Location</h6>
+                                <p>Nairobi Kenya</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="contact-box d-flex">
+                            <div class="contact-icon">
+                                <i class="fa fa-envelope"></i>
+                            </div>
+                            <div class="contact-content">
+                                <h6>Email Address</h6>
+                                <p>enquery@domain.com <br>help@yourdomain.com</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="contact-box d-flex">
+                            <div class="contact-icon">
+                                <i class="fa fa-phone"></i>
+                            </div>
+                            <div class="contact-content">
+                                <h6>Phone Number</h6>
+                                <p>+1 908 875 7678 <br>+1 908 875 7637</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="social-link">
+                    <ul class="list-unstyled list-inline">
+                        <li class="list-inline-item"><a href=""><i class="fa fa-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href=""><i class="fa fa-twitter"></i></a></li>
+                        <li class="list-inline-item"><a href=""><i class="fa fa-linkedin"></i></a></li>
+                        <li class="list-inline-item"><a href=""><i class="fa fa-youtube"></i></a></li>
+                        <li class="list-inline-item"><a href=""><i class="fa fa-pinterest"></i></a></li>
+                    </ul>
+                </div>
             </div>
-            <div class="form-group">
-              <label for="email">Email <span class="require">*</span></label>
-              <input type="text" class="form-control" id="email">
+            <div class="col-lg-8 col-md-7">
+                <div class="contact-form">
+                    <h4>Get In Touch</h4>
+                    <form action="#">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p><input type="text" id="name" name="name" placeholder="Full Name" required=""></p>
+                            </div>
+                            <div class="col-md-6">
+                                <p><input type="text" id="email" name="email" placeholder="Email" required=""></p>
+                            </div>
+                            <div class="col-md-12">
+                                <p><input type="text" id="subject" name="subject" placeholder="Subject"></p>
+                            </div>
+                            <div class="col-md-12">
+                                <p><textarea name="message" id="message" placeholder="Message" required=""></textarea></p>
+                            </div>
+                            <div class="col-md-12">
+                                <button type="submit">Send Message</button>
+                            </div>
+                        </div>
+                        <div id="form-messages"></div>
+                    </form>
+                </div>
             </div>
-            <div class="form-group">
-              <label for="message">Message</label>
-              <textarea class="form-control" rows="8" id="message"></textarea>
-            </div>
-            <div class="padding-top-20">
-              <button type="submit" class="btn btn-primary">Submit</button>
-            </div>
-          </form>
-          <!-- END FORM-->
         </div>
-      </div>
-      <!-- END CONTENT -->
     </div>
-    <!-- END SIDEBAR & CONTENT -->
-  </div>
-</div>
+</section>
+<!-- End Contact -->

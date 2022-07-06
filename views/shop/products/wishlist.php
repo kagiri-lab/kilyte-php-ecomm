@@ -1,82 +1,166 @@
 <?php
 
-$breadcrumb = "My Wish List";
+$breadcrumb = "Wishlist";
 $this->title = "$breadcrumb - {{site-name}}"
 
 ?>
 
-<div class="main">
-  <div class="container">
-    <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-      <li class="active"><?= $breadcrumb ?></li>
-    </ul>
-    <!-- BEGIN SIDEBAR & CONTENT -->
-    <div class="row margin-bottom-40">
-      <!-- BEGIN SIDEBAR -->
-      <?php require('product-side-menu.php'); ?>
-      <!-- END SIDEBAR -->
 
-      <!-- BEGIN CONTENT -->
-      <div class="col-md-9 col-sm-7">
-        <h1><?= $breadcrumb ?></h1>
-        <div class="goods-page">
-          <div class="goods-data clearfix">
-            <div class="table-wrapper-responsive">
-              <table summary="Shopping cart">
-                <tr>
-                  <th class="goods-page-image">Image</th>
-                  <th class="goods-page-description">Description</th>
-                  <th class="goods-page-stock">Stock</th>
-                  <th class="goods-page-price" colspan="2">Unit price</th>
-                </tr>
-                <tr>
-                  <td class="goods-page-image">
-                    <a href="javascript:;"><img src="/assets/shop/pages/img/products/model3.jpg" alt="Berry Lace Dress"></a>
-                  </td>
-                  <td class="goods-page-description">
-                    <h3><a href="javascript:;">Cool green dress with red bell</a></h3>
-                    <p><strong>Item 1</strong> - Color: Green; Size: S</p>
-                    <em>More info is here</em>
-                  </td>
-                  <td class="goods-page-stock">
-                    In Stock
-                  </td>
-                  <td class="goods-page-price">
-                    <strong><span>$</span>47.00</strong>
-                  </td>
-                  <td class="del-goods-col">
-                    <a class="del-goods" href="javascript:;">&nbsp;</a>
-                    <a class="add-goods" href="javascript:;">&nbsp;</a>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="goods-page-image">
-                    <a href="javascript:;"><img src="/assets/shop/pages/img/products/model4.jpg" alt="Berry Lace Dress"></a>
-                  </td>
-                  <td class="goods-page-description">
-                    <h3><a href="javascript:;">Cool green dress with red bell</a></h3>
-                    <p><strong>Item 1</strong> - Color: Green; Size: S</p>
-                    <em>More info is here</em>
-                  </td>
-                  <td class="goods-page-stock">
-                    In Stock
-                  </td>
-                  <td class="goods-page-price">
-                    <strong><span>$</span>47.00</strong>
-                  </td>
-                  <td class="del-goods-col">
-                    <a class="del-goods" href="javascript:;">&nbsp;</a>
-                    <a class="add-goods" href="javascript:;">&nbsp;</a>
-                  </td>
-                </tr>
-              </table>
+<!-- Breadcrumb Area -->
+<section class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-box text-center">
+                    <ul class="list-unstyled list-inline">
+                        <li class="list-inline-item"><a href="/">Home</a></li>
+                        <li class="list-inline-item"><span>||</span> <?= $breadcrumb ?></li>
+                    </ul>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-      <!-- END CONTENT -->
     </div>
-    <!-- END SIDEBAR & CONTENT -->
-  </div>
-</div>
+</section>
+<!-- End Breadcrumb Area -->
+
+<!-- Wishlist -->
+<section class="shopping-cart">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="cart-table wsh-list table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th class="t-pro">Product</th>
+                                <th class="t-price">Price</th>
+                                <th class="t-qty">Stock</th>
+                                <th class="t-total">Add To Cart</th>
+                                <th class="t-rem"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="t-pro d-flex">
+                                    <div class="t-img">
+                                        <a href=""><img src="images/sbar-1.png" alt=""></a>
+                                    </div>
+                                    <div class="t-content">
+                                        <p class="t-heading"><a href="">Samsung Smart Led Tv</a></p>
+                                        <ul class="list-unstyled list-inline rate">
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                        </ul>
+                                        <ul class="list-unstyled col-sz">
+                                            <li>
+                                                <p>Color : <span>Red</span></p>
+                                            </li>
+                                            <li>
+                                                <p>Size : <span>M</span></p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </td>
+                                <td class="t-price">$189.00</td>
+                                <td class="t-stk">In Stock</td>
+                                <td class="t-add"><button type="button" name="button">Add to Cart</button></td>
+                                <td class="t-rem"><a href=""><i class="fa fa-trash-o"></i></a></td>
+                            </tr>
+                            <tr>
+                                <td class="t-pro d-flex">
+                                    <div class="t-img">
+                                        <a href=""><img src="images/sbar-3.png" alt=""></a>
+                                    </div>
+                                    <div class="t-content">
+                                        <p class="t-heading"><a href="">Samsung Smart Led Tv</a></p>
+                                        <ul class="list-unstyled list-inline rate">
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                        </ul>
+                                        <ul class="list-unstyled col-sz">
+                                            <li>
+                                                <p>Color : <span>Green</span></p>
+                                            </li>
+                                            <li>
+                                                <p>Size : <span>M</span></p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </td>
+                                <td class="t-price">$129.00</td>
+                                <td class="t-stk">In Stock</td>
+                                <td class="t-add"><button type="button" name="button">Add to Cart</button></td>
+                                <td class="t-rem"><a href=""><i class="fa fa-trash-o"></i></a></td>
+                            </tr>
+                            <tr>
+                                <td class="t-pro d-flex">
+                                    <div class="t-img">
+                                        <a href=""><img src="images/sbar-4.png" alt=""></a>
+                                    </div>
+                                    <div class="t-content">
+                                        <p class="t-heading"><a href="">Samsung Smart Led Tv</a></p>
+                                        <ul class="list-unstyled list-inline rate">
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                        </ul>
+                                        <ul class="list-unstyled col-sz">
+                                            <li>
+                                                <p>Color : <span>Grey</span></p>
+                                            </li>
+                                            <li>
+                                                <p>Size : <span>M</span></p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </td>
+                                <td class="t-price">$239.00</td>
+                                <td class="t-stk">In Stock</td>
+                                <td class="t-add"><button type="button" name="button">Add to Cart</button></td>
+                                <td class="t-rem"><a href=""><i class="fa fa-trash-o"></i></a></td>
+                            </tr>
+                            <tr>
+                                <td class="t-pro d-flex">
+                                    <div class="t-img">
+                                        <a href=""><img src="images/sbar-5.png" alt=""></a>
+                                    </div>
+                                    <div class="t-content">
+                                        <p class="t-heading"><a href="">Samsung Smart Led Tv</a></p>
+                                        <ul class="list-unstyled list-inline rate">
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                            <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                        </ul>
+                                        <ul class="list-unstyled col-sz">
+                                            <li>
+                                                <p>Color : <span>Blue</span></p>
+                                            </li>
+                                            <li>
+                                                <p>Size : <span>M</span></p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </td>
+                                <td class="t-price">$149.00</td>
+                                <td class="t-stk">In Stock</td>
+                                <td class="t-add"><button type="button" name="button">Add to Cart</button></td>
+                                <td class="t-rem"><a href=""><i class="fa fa-trash-o"></i></a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Wishlist -->

@@ -4,51 +4,139 @@ $breadcrumb = "About Us";
 $this->title = "$breadcrumb - {{site-name}}"
 
 ?>
+<?php require('breadcrumb.php') ?>
 
-<div class="main">
-  <div class="container">
-    <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-      <li class="active"><?= $breadcrumb ?></li>
-    </ul>
-    <!-- BEGIN SIDEBAR & CONTENT -->
-    <div class="row margin-bottom-40">
-      <!-- BEGIN SIDEBAR -->
-      <?php require('login-side-menu.php') ?>
-      <!-- END SIDEBAR -->
-
-      <!-- BEGIN CONTENT -->
-      <div class="col-md-9 col-sm-9">
-        <h1>About us</h1>
-        <div class="content-page">
-          <p><img src="assets/shop/pages/img/img1.jpg" alt="About us" class="img-responsive"></p>
-
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-
-          <h2>Lorem ipsum dolor sit amet</h2>
-
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. </p>
-
-          <h3>Investigationes demonstraverunt</h3>
-          <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>Claritas est etiam processus dynamicus</li>
-            <li>Duis autem vel eum iriure dolor</li>
-            <li>Eodem modo typi</li>
-          </ul>
-
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-
-          <h2>Nam liber tempor cum soluta nobis</h2>
-
-          <p> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-
+<!-- About Area -->
+<section class="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="wc-box">
+                    <h4>Welcome to <span>XeMart</span></h4>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Exercitationem quod facere praesentium odit. Repellat porro et
+                        laudantium, atque similique distinctio.<br />
+                        Nemo quidem obcaecati aut possimus, voluptatibus dignissimos
+                        facilis sit. Qui.Lorem ipsum dolor sit amet, consectetur
+                        adipisicing elit. Eos ipsum, ut! Numquam nesciunt, ex obcaecati
+                        libero asperiores reprehenderit ratione minus commodi magni
+                        fugit non nemo quas dolorum nisi ducimus laboriosam!
+                    </p>
+                    <a href="">Read More</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="wc-img">
+                    <img src="assets/shop/images/about.jpg" alt="" class="img-fluid" />
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="row his-mis">
+                    <div class="col-md-4">
+                        <div class="about-bnr">
+                            <a href="#"><img src="assets/shop/images/banner-1.png" alt="" class="img-fluid" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="about-bnr">
+                            <a href="#"><img src="assets/shop/images/banner-2.png" alt="" class="img-fluid" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="about-bnr">
+                            <a href="#"><img src="assets/shop/images/banner-3-1.png" alt="" class="img-fluid" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="history">
+                            <h5>Our History</h5>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Ipsa ut iure doloribus ratione quia nam ducimus nemo, culpa
+                                vero eveniet magni fugit non nemo quas dolorum nisi ducimus
+                                laboriosam.
+                            </p>
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="fa fa-check"></i>Numquam nesciunt, ex obcaecati
+                                    libero asperiores
+                                </li>
+                                <li>
+                                    <i class="fa fa-check"></i>Ipsa ut iure doloribus ratione
+                                    quia nam ducimus
+                                </li>
+                                <li>
+                                    <i class="fa fa-check"></i>Reprehenderit ratione minus
+                                    commodi magni
+                                </li>
+                                <li>
+                                    <i class="fa fa-check"></i>Porro et laudantium, atque
+                                    similique
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="history">
+                            <h5>Our Mission</h5>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Quam veniam doloribus officiis fuga! Laboriosam ea, earum!
+                                Molestias unde alias, soluta cupiditate possimus, vel, iste
+                                impedit provident numquam voluptatum enim? Tempora ratione
+                                minus commodi magni fugit non nemo quas dolorum nisi
+                                ducimus. Qui Lorem ipsum dolor sit amet.<br />
+                                Eos ipsum, ut! Numquam nesciunt, ex obcaecati libero
+                                asperiores reprehende ratione minus commodi magni fugit non
+                                nemo quas asperiores reprehende ratione minus commodi.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-      <!-- END CONTENT -->
     </div>
-    <!-- END SIDEBAR & CONTENT -->
-  </div>
-</div>
+</section>
+<!-- End About Area -->
+
+<!-- Team Area -->
+<section class="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="sec-title">
+                    <h4>Meet Our Team</h4>
+                </div>
+                <div class="team-slider owl-carousel">
+                    <div class="team-box">
+                        <img src="assets/shop/images/team-1.jpg" alt="" class="img-fluid" />
+                        <h5>Kevin Smith</h5>
+                        <p>Founder</p>
+                    </div>
+                    <div class="team-box">
+                        <img src="assets/shop/images/team-2.jpg" alt="" class="img-fluid" />
+                        <h5>Alisha Doe</h5>
+                        <p>Chief Officer</p>
+                    </div>
+                    <div class="team-box">
+                        <img src="assets/shop/images/team-3.jpg" alt="" class="img-fluid" />
+                        <h5>Kevin Smith</h5>
+                        <p>Exicutive</p>
+                    </div>
+                    <div class="team-box">
+                        <img src="assets/shop/images/team-4.jpg" alt="" class="img-fluid" />
+                        <h5>Angel Kim</h5>
+                        <p>Director</p>
+                    </div>
+                    <div class="team-box">
+                        <img src="assets/shop/images/team-1.jpg" alt="" class="img-fluid" />
+                        <h5>Kevin Smith</h5>
+                        <p>Founder</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Team Area -->

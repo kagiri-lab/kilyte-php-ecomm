@@ -1,130 +1,80 @@
 <?php
 
-$breadcrumb = "Frequently Asked Questions";
+$breadcrumb = "FAQ";
 $this->title = "$breadcrumb - {{site-name}}"
 
 ?>
 
-<div class="main">
-  <div class="container">
-    <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-      <li class="active"><?= $breadcrumb ?></li>
-    </ul>
-    <!-- BEGIN SIDEBAR & CONTENT -->
-    <div class="row margin-bottom-40">
-      <!-- BEGIN SIDEBAR -->
-      <?php require('login-side-menu.php') ?>
-      <!-- END SIDEBAR -->
-
-      <!-- BEGIN CONTENT -->
-      <div class="col-md-9 col-sm-9">
-        <h1><?= $breadcrumb ?></h1>
-        <div class="faq-page">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_1">
-                  1. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry ?
-                </a>
-              </h4>
+<!-- Breadcrumb Area -->
+<section class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-box text-center">
+                    <ul class="list-unstyled list-inline">
+                        <li class="list-inline-item"><a href="">Home</a></li>
+                        <li class="list-inline-item"><span>||</span> <?= $breadcrumb ?></li>
+                    </ul>
+                </div>
             </div>
-            <div id="accordion1_1" class="panel-collapse collapse  in">
-              <div class="panel-body">
-                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_2">
-                  2. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry ?
-                </a>
-              </h4>
-            </div>
-            <div id="accordion1_2" class="panel-collapse collapse">
-              <div class="panel-body">
-                Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
-                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-success">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_3">
-                  3. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor ?
-                </a>
-              </h4>
-            </div>
-            <div id="accordion1_3" class="panel-collapse collapse">
-              <div class="panel-body">
-                Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
-                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-warning">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_4">
-                  4. Wolf moon officia aute, non cupidatat skateboard dolor brunch ?
-                </a>
-              </h4>
-            </div>
-            <div id="accordion1_4" class="panel-collapse collapse">
-              <div class="panel-body">
-                3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-danger">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_5">
-                  5. Leggings occaecat craft beer farm-to-table, raw denim aesthetic ?
-                </a>
-              </h4>
-            </div>
-            <div id="accordion1_5" class="panel-collapse collapse">
-              <div class="panel-body">
-                3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_6">
-                  6. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth ?
-                </a>
-              </h4>
-            </div>
-            <div id="accordion1_6" class="panel-collapse collapse">
-              <div class="panel-body">
-                3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_7">
-                  7. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft ?
-                </a>
-              </h4>
-            </div>
-            <div id="accordion1_7" class="panel-collapse collapse">
-              <div class="panel-body">
-                3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et
-              </div>
-            </div>
-          </div>
         </div>
-      </div>
-      <!-- END CONTENT -->
     </div>
-    <!-- END SIDEBAR & CONTENT -->
-  </div>
-</div>
+</section>
+<!-- End Breadcrumb Area -->
+
+<!-- Faq -->
+<section class="faq">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="faq-box">
+                    <div>
+                        <h6><span>1</span> What shipping method are available in XeMart?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>3</span> Do we accept cash on delivery?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>5</span> How can i track my order?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>7</span> Do XeMart Offer discount codes?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>9</span> What is the return system of XeMart?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="faq-box">
+                    <div>
+                        <h6><span>2</span> How do I contact with XeMart?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>4</span> Can I cancel my order?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>6</span> Can I replace my product if I need?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>8</span> Can I get refund for any of my product?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                    <div>
+                        <h6><span>10</span> How much time it takes to deliver product?</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quasi hic, explicabo ex quam voluptatem sed quisquam eaque earum aut nesciunt cumque illo id voluptatibus alias dignissimos repellendus distinctio.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Faq -->

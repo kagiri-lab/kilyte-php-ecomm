@@ -1,117 +1,191 @@
-<!DOCTYPE html>
+<!doctype html>
+<html class="no-js" lang="zxx">
 
-<html lang="en">
-<!--<![endif]-->
+<?php
 
-<!-- Head BEGIN -->
+use app\controllers\menu\MobileMenu;
+use app\controllers\menu\StickyMenu;
 
-<head>
-    <meta charset="utf-8">
-    <title><?= $this->title ?></title>
+$mainmenu = new StickyMenu;
 
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+require('header.php'); ?>
 
-    <meta content="description" name="description">
-    <meta content="keywords" name="keywords">
-    <meta content="kilyte" name="author">
+<body>
 
-    <meta property="og:site_name" content="-CUSTOMER VALUE-">
-    <meta property="og:title" content="-CUSTOMER VALUE-">
-    <meta property="og:description" content="-CUSTOMER VALUE-">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="-CUSTOMER VALUE-"><!-- link to image for socio -->
-    <meta property="og:url" content="-CUSTOMER VALUE-">
+    <?php require('preloader.php') ?>
 
-    <link rel="shortcut icon" href="favicon.ico">
+    <!-- Top Bar -->
+    <section class="top-bar">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-4">
+                    <div class="top-left d-flex">
+                        <div class="lang-box">
+                            <span><img src="assets/shop/images/fl-eng.png" alt="">English<i class="fa fa-angle-down"></i></span>
+                            <ul class="list-unstyled">
+                                <li><img src="assets/shop/images/fl-eng.png" alt="">English</li>
+                                <li><img src="assets/shop/images/fl-fra.png" alt="">French</li>
+                                <li><img src="assets/shop/images/fl-ger.png" alt="">German</li>
+                                <li><img src="assets/shop/images/fl-bra.png" alt="">Brazilian</li>
+                            </ul>
+                        </div>
+                        <div class="mny-box">
+                            <span>USD<i class="fa fa-angle-down"></i></span>
+                            <ul class="list-unstyled">
+                                <li>USD</li>
+                                <li>GBP</li>
+                                <li>EUR</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-8">
+                    <div class="top-right text-right">
+                        <ul class="list-unstyled list-inline">
+                            <li class="list-inline-item"><a href=""><img src="assets/shop/images/user.png" alt="">My Account</a></li>
+                            <li class="list-inline-item"><a href=""><img src="assets/shop/images/wishlist.png" alt="">Wishlist</a></li>
+                            <li class="list-inline-item"><a href=""><img src="assets/shop/images/checkout.png" alt="">Checkout</a></li>
+                            <li class="list-inline-item"><a href=""><img src="assets/shop/images/login.png" alt="">Login</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Top Bar -->
 
-    <!-- Fonts START -->
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|PT+Sans+Narrow|Source+Sans+Pro:200,300,400,600,700,900&amp;subset=all" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900&amp;subset=all" rel="stylesheet" type="text/css">
-    <!--- fonts for slider on the index page -->
-    <!-- Fonts END -->
+    <!-- Logo Area -->
+    <section class="logo-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="logo">
+                        <a href="/"><img src="assets/shop/images/logo.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-md-5 padding-fix">
+                    <form action="#" class="search-bar">
+                        <input type="text" name="search-bar" placeholder="I'm looking for...">
+                        <button type="submit"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+                <div class="col-md-4">
+                    <div class="carts-area d-flex">
+                        <div class="call-box d-flex">
+                            <div class="call-ico">
+                                <img src="assets/shop/images/call.png" alt="">
+                            </div>
+                            <div class="call-content">
+                                <span>Call Us</span>
+                                <p>+1 (111) 426 6573</p>
+                            </div>
+                        </div>
+                        <div class="cart-box ml-auto text-center">
+                            <a href="" class="cart-btn">
+                                <img src="assets/shop/images/cart.png" alt="cart">
+                                <span>2</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Logo Area -->
 
-    <!-- Global styles START -->
-    <link href="/assets/shop/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="/assets/shop/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Global styles END -->
+    <?php require('cart.php') ?>
 
-    <!-- Page level plugin styles START -->
-    <link href="/assets/shop/pages/css/animate.css" rel="stylesheet">
-    <link href="/assets/shop/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet">
-    <link href="/assets/shop/plugins/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
-    <!-- Page level plugin styles END -->
+    <!-- Sticky Menu -->
+    <section class="sticky-menu">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2 col-md-3">
+                    <div class="sticky-logo">
+                        <a href="/"><img src="assets/shop/images/logo.png" alt="" class="img-fluid"></a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-7">
+                    <div class="main-menu">
+                        <ul class="list-unstyled list-inline">
+                            <li class="list-inline-item"><a href="/">HOME</a></li>
+                            <?php $mainmenu->load(); ?>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-2">
+                    <div class="carts-area d-flex">
+                        <div class="src-box">
+                            <form action="#">
+                                <input type="text" name="search" placeholder="Search Here">
+                                <button type="button" name="button"><i class="fa fa-search"></i></button>
+                            </form>
+                        </div>
+                        <div class="wsh-box ml-auto">
+                            <a href="" data-toggle="tooltip" data-placement="top" title="Wishlist">
+                                <img src="assets/shop/images/heart.png" alt="favorite">
+                                <span>0</span>
+                            </a>
+                        </div>
+                        <div class="cart-box ml-4">
+                            <a href="" data-toggle="tooltip" data-placement="top" title="Shopping Cart" class="cart-btn">
+                                <img src="assets/shop/images/cart.png" alt="cart">
+                                <span>2</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Sticky Menu -->
 
-    <!-- Theme styles START -->
-    <link href="/assets/shop/pages/css/components.css" rel="stylesheet">
-    <link href="/assets/shop/pages/css/slider.css" rel="stylesheet">
-    <link href="/assets/shop/pages/css/style-shop.css" rel="stylesheet" type="text/css">
-    <link href="/assets/shop/corporate/css/style.css" rel="stylesheet">
-    <link href="/assets/shop/corporate/css/style-responsive.css" rel="stylesheet">
-    <link href="/assets/shop/corporate/css/themes/red.css" rel="stylesheet" id="style-color">
-    <link href="/assets/shop/corporate/css/custom.css" rel="stylesheet">
-    <!-- Theme styles END -->
-</head>
-<!-- Head END -->
+    <!-- Menu Area -->
+    <section class="menu-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="main-menu">
+                        <ul class="list-unstyled list-inline">
+                            <li class="list-inline-item"><a href="/">HOME</a></li>
 
-<!-- Body BEGIN -->
+                            <?php $mainmenu->load(); ?>
+                            <li class="list-inline-item trac-btn"><a href="">Track Your Order</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Menu Area -->
 
-<body class="ecommerce">
-
-    <?php require('header.php'); ?>
-
+    <!-- Mobile Menu -->
+    <section class="mobile-menu-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="mobile-menu">
+                        <nav id="dropdown">
+                            <a href="/"><img src="assets/shop/images/logo.png" alt=""></a>
+                            <a href="/login"><span>Sign In</span></a>
+                            <ul class="list-unstyled">
+                                <li><a href="/">Home</a></li>
+                                <?php
+                                $mobileMenu = new MobileMenu;
+                                $mobileMenu->load();
+                                ?>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Mobile Menu -->
 
     {{content}}
 
-    <!-- BEGIN BRANDS -->
-    <?php require('brands.php'); ?>
-    <!-- END BRANDS -->
+    <?php require('footer.php'); ?>
 
-    <!-- BEGIN STEPS -->
-    <?php require('shopping-steps.php') ?>
-    <!-- END STEPS -->
-
-    <!-- BEGIN PRE-FOOTER -->
-    <?php require('pre-footer.php') ?>
-    <!-- END PRE-FOOTER -->
-
-    <!-- BEGIN FOOTER -->
-    <?php require('footer.php') ?>
-    <!-- END FOOTER -->
-
-    <!-- Load javascripts at bottom, this will reduce page load time -->
-    <!-- BEGIN CORE PLUGINS (REQUIRED FOR ALL PAGES) -->
-    <!--[if lt IE 9]>
-    <script src="/assets/shop/plugins/respond.min.js"></script>  
-    <![endif]-->
-    <script src="/assets/shop/plugins/jquery.min.js" type="text/javascript"></script>
-    <script src="/assets/shop/plugins/jquery-migrate.min.js" type="text/javascript"></script>
-    <script src="/assets/shop/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/assets/shop/corporate/scripts/back-to-top.js" type="text/javascript"></script>
-    <script src="/assets/shop/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
-    <!-- END CORE PLUGINS -->
-
-    <!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) -->
-    <script src="/assets/shop/plugins/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script><!-- pop up -->
-    <script src="/assets/shop/plugins/owl.carousel/owl.carousel.min.js" type="text/javascript"></script><!-- slider for products -->
-    <script src='/assets/shop/plugins/zoom/jquery.zoom.min.js' type="text/javascript"></script><!-- product zoom -->
-    <script src="/assets/shop/plugins/bootstrap-touchspin/bootstrap.touchspin.js" type="text/javascript"></script><!-- Quantity -->
-
-    <script src="/assets/shop/corporate/scripts/layout.js" type="text/javascript"></script>
-    <script src="/assets/shop/pages/scripts/bs-carousel.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        jQuery(document).ready(function() {
-            Layout.init();
-            Layout.initOWL();
-            Layout.initImageZoom();
-            Layout.initTouchspin();
-
-            Layout.initFixHeaderWithPreHeader();
-            Layout.initNavScrolling();
-        });
-    </script>
-    <!-- END PAGE LEVEL JAVASCRIPTS -->
 </body>
-<!-- END BODY -->
 
 </html>

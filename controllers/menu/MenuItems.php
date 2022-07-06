@@ -2,7 +2,8 @@
 
 namespace app\controllers\menu;
 
-class MenuItems{
+class MenuItems
+{
 
     public function mainMenuBarItems()
     {
@@ -15,35 +16,51 @@ class MenuItems{
                     "Shoes" => "/product/shoes"
                 ]
             ],
-            "New" => "/product/new",
+            "About" => "/about",
+            "Contacts" => "/contact",
             "More" => [
-                "About" => "/about",
-                "Contacts" => "/contact",
                 "FAQ" => "/faq",
-                "Privacy Policy" => "/privacy-policy",
                 "Terms &amp; Conditions" => "/terms-conditions"
             ]
         ];
     }
 
 
-    public function leftSideBarItems()
+    public function categoryMenu()
     {
+
         return [
-            "Ladies" => [],
-            "Men" => [
-                "Shoes" => [
-                    "Classic" => [],
-                    "Sport" => [
-                        "Sport 1" => [],
-                        "Sport 2" => []
-                    ]
-                ],
-                "Trainers" => null
-            ],
-            "Kids" => null
+            "Shoes" => "/product/shoes",
+            "Dress" => "/product/dress",
+            "Men" => "",
+            "Women" => "",
+            "Kids" => "",
+            "AutoMobiles" => "",
+            "Men -" => "",
+            "Women -" => "",
+            "Kids -" => "",
+            "AutoMobiles -" => "",
+            "Men - 1" => "",
+            "Women - " => "",
+            "Kids - " => "",
+            "AutoMobiles - " => ""
         ];
     }
 
-    
+
+    public function adminMenu()
+    {
+        return [
+            "Orders" => "/admin/order/list",
+            "Products" => [
+                "List" => "/admin/product/list",
+                "Register" => "/admin/product/register"
+            ],
+            "Customers" => "/admin/customer/list",
+            "User" => [
+                "Login" => "/admin/login",
+                "Register" => "/admin/register"
+            ]
+        ];
+    }
 }
