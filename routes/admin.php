@@ -4,6 +4,9 @@ namespace app\routes;
 
 use app\controllers\admin\AdminController;
 use app\controllers\admin\AuthController;
+use app\controllers\admin\CustomersController;
+use app\controllers\admin\OrdersController;
+use app\controllers\admin\ProductsController;
 use kilyte\Application;
 
 class Admin
@@ -23,27 +26,27 @@ class Admin
 
         $route->get(AuthController::class, [
             '/login' => 'login',
-            '/register' => 'adminRegister',
-            '/logout' => 'adminLogout',
-            '/forgot-password' => 'adminForgotPassword',
-            '/reset-password' => 'adminResetPassword',
-            '/confirm-email' => 'adminConfirmEmail'
+            '/register' => 'register',
+            '/logout' => 'logout',
+            '/forgot-password' => 'forgotPassword',
+            '/reset-password' => 'resetPassword',
+            '/confirm-email' => 'confirmEmail'
         ], 'admin');
 
-        // $route->get(AdminOrdersController::class, [
-        //     '/order/get/{number}' => 'adminOrderDetails',
-        //     '/order/list' => 'adminOrderList'
-        // ], 'admin');
+        $route->get(OrdersController ::class, [
+            '/order/get/{number}' => 'orderDetails',
+            '/order/list' => 'orderList'
+        ], 'admin');
 
-        // $route->get(AdminProductController::class, [
-        //     '/product/list' => 'adminProductList',
-        //     '/product/register' => 'adminProductRegister',
-        //     '/product/get/{number}' => 'adminProductDetails'
-        // ], 'admin');
+        $route->get(ProductsController::class, [
+            '/product/list' => 'productsList',
+            '/product/register' => 'productRegister',
+            '/product/get/{number}' => 'productDetails'
+        ], 'admin');
 
-        // $route->get(AdminCustomerController::class, [
-        //     '/customer/get/{id}' => 'adminCustomerDetails',
-        //     '/customer/list' => 'adminCustomerList'
-        // ], 'admin');
+        $route->get(CustomersController::class, [
+            '/customer/get/{id}' => 'customerDetails',
+            '/customer/list' => 'customersList'
+        ], 'admin');
     }
 }

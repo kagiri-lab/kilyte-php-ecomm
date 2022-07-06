@@ -4,7 +4,7 @@ namespace app\controllers\shop;
 
 use kilyte\Controller;
 
-class ShopWishListController extends Controller
+class WishListController extends Controller
 {
 
     public function shopWishlist()

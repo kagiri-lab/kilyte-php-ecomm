@@ -4,7 +4,7 @@ namespace app\controllers\shop;
 
 use kilyte\Controller;
 
-class ShopCartController extends Controller
+class CartController extends Controller
 {
 
     public function shopCart()

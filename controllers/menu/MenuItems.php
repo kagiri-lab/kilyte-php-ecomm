@@ -9,11 +9,11 @@ class MenuItems
     {
         return [
             "Category" => [
-                "Kids" => "/product/kids",
-                "Men" => "/product/men",
+                "Kids" => "/category/kids",
+                "Men" => "/category/men",
                 "Ladies" => [
-                    "Dress" => "/product/dress",
-                    "Shoes" => "/product/shoes"
+                    "Dress" => "/category/dress",
+                    "Shoes" => "/category/shoes"
                 ]
             ],
             "About" => "/about",
@@ -30,20 +30,15 @@ class MenuItems
     {
 
         return [
-            "Shoes" => "/product/shoes",
-            "Dress" => "/product/dress",
-            "Men" => "",
-            "Women" => "",
-            "Kids" => "",
-            "AutoMobiles" => "",
-            "Men -" => "",
-            "Women -" => "",
-            "Kids -" => "",
-            "AutoMobiles -" => "",
-            "Men - 1" => "",
-            "Women - " => "",
-            "Kids - " => "",
-            "AutoMobiles - " => ""
+            "Category" => "/category/category",
+            "Category 1" => "/category/category",
+            "Category 2" => "/category/category",
+            "Category 3" => "/category/category",
+            "Category 4" => "/category/category",
+            "Category 5" => "/category/category",
+            "Category 6" => "/category/category",
+            "Category 7" => "/category/category",
+            "Category 8" => "/category/category"
         ];
     }
 

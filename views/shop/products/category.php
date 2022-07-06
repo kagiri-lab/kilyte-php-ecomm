@@ -5,7 +5,7 @@
             <div class="col-md-12">
                 <div class="breadcrumb-box text-center">
                     <ul class="list-unstyled list-inline">
-                        <li class="list-inline-item"><a href="">Home</a></li>
+                        <li class="list-inline-item"><a href="/product/samsung">Home</a></li>
                         <li class="list-inline-item"><span>||</span> Category</li>
                     </ul>
                 </div>
@@ -28,7 +28,7 @@
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header">
-                                <a href="" data-toggle="collapse" data-target="#collapse1">
+                                <a href="/product/samsung" data-toggle="collapse" data-target="#collapse1">
                                     <span>Clothing</span>
                                     <i class="fa fa-angle-down"></i>
                                 </a>
@@ -36,17 +36,17 @@
                             <div id="collapse1" class="collapse">
                                 <div class="card-body">
                                     <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 1</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 2</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 3</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 4</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 1</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 2</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 3</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 4</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
-                                <a href="" data-toggle="collapse" data-target="#collapse2">
+                                <a href="/product/samsung" data-toggle="collapse" data-target="#collapse2">
                                     <span>Electronics</span>
                                     <i class="fa fa-angle-down"></i>
                                 </a>
@@ -54,17 +54,17 @@
                             <div id="collapse2" class="collapse">
                                 <div class="card-body">
                                     <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 1</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 2</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 3</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 4</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 1</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 2</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 3</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 4</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
-                                <a href="" data-toggle="collapse" data-target="#collapse3">
+                                <a href="/product/samsung" data-toggle="collapse" data-target="#collapse3">
                                     <span>Home Appliance</span>
                                     <i class="fa fa-angle-down"></i>
                                 </a>
@@ -72,17 +72,17 @@
                             <div id="collapse3" class="collapse">
                                 <div class="card-body">
                                     <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 1</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 2</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 3</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 4</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 1</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 2</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 3</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 4</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
-                                <a href="" data-toggle="collapse" data-target="#collapse4">
+                                <a href="/product/samsung" data-toggle="collapse" data-target="#collapse4">
                                     <span>Smartphone</span>
                                     <i class="fa fa-angle-down"></i>
                                 </a>
@@ -90,17 +90,17 @@
                             <div id="collapse4" class="collapse">
                                 <div class="card-body">
                                     <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 1</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 2</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 3</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 4</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 1</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 2</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 3</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 4</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
-                                <a href="" data-toggle="collapse" data-target="#collapse5">
+                                <a href="/product/samsung" data-toggle="collapse" data-target="#collapse5">
                                     <span>Computer</span>
                                     <i class="fa fa-angle-down"></i>
                                 </a>
@@ -108,17 +108,17 @@
                             <div id="collapse5" class="collapse">
                                 <div class="card-body">
                                     <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 1</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 2</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 3</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 4</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 1</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 2</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 3</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 4</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
-                                <a href="" data-toggle="collapse" data-target="#collapse6">
+                                <a href="/product/samsung" data-toggle="collapse" data-target="#collapse6">
                                     <span>Kids Collection</span>
                                     <i class="fa fa-angle-down"></i>
                                 </a>
@@ -126,17 +126,17 @@
                             <div id="collapse6" class="collapse">
                                 <div class="card-body">
                                     <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 1</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 2</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 3</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 4</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 1</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 2</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 3</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 4</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
-                                <a href="" data-toggle="collapse" data-target="#collapse7">
+                                <a href="/product/samsung" data-toggle="collapse" data-target="#collapse7">
                                     <span>Automobile</span>
                                     <i class="fa fa-angle-down"></i>
                                 </a>
@@ -144,10 +144,10 @@
                             <div id="collapse7" class="collapse">
                                 <div class="card-body">
                                     <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 1</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 2</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 3</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i> Catagory 4</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 1</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 2</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 3</a></li>
+                                        <li><a href="/product/samsung"><i class="fa fa-angle-right"></i> Catagory 4</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -197,19 +197,19 @@
                         <h6>Product Tag</h6>
                     </div>
                     <div class="tag-box">
-                        <a href="">Shirt</a>
-                        <a href="">Smartphone</a>
-                        <a href="">Camera</a>
-                        <a href="">Pant</a>
-                        <a href="">Glass</a>
-                        <a href="">Smart Led Tv</a>
-                        <a href="">Watch</a>
-                        <a href="">Micro Oven</a>
-                        <a href="">Toy</a>
+                        <a href="/product/samsung">Shirt</a>
+                        <a href="/product/samsung">Smartphone</a>
+                        <a href="/product/samsung">Camera</a>
+                        <a href="/product/samsung">Pant</a>
+                        <a href="/product/samsung">Glass</a>
+                        <a href="/product/samsung">Smart Led Tv</a>
+                        <a href="/product/samsung">Watch</a>
+                        <a href="/product/samsung">Micro Oven</a>
+                        <a href="/product/samsung">Toy</a>
                     </div>
                 </div>
                 <div class="add-box">
-                    <a href=""><img src="images/s-banner2.jpg" alt="" class="img-fluid"></a>
+                    <a href="/product/samsung"><img src="/assets/shop/images/s-banner2.jpg" alt="" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-9">
@@ -254,15 +254,15 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-1.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-1.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -279,7 +279,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -287,16 +287,16 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-2.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-2.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <span class="sale">Sale</span>
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -313,7 +313,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -321,15 +321,15 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-3.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-3.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -346,7 +346,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -354,15 +354,15 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-4.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-4.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -379,7 +379,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -387,15 +387,15 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-5.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-5.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -412,7 +412,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -420,16 +420,16 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-6.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-6.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <span class="new">New</span>
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -446,7 +446,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -454,15 +454,15 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-7.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-7.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -479,7 +479,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -487,16 +487,16 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-8.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-8.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <span class="sale">Sale</span>
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -513,7 +513,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -521,15 +521,15 @@
                                 <div class="col-lg-4 col-md-6">
                                     <div class="tab-item">
                                         <div class="tab-img">
-                                            <img class="main-img img-fluid" src="images/tab-9.png" alt="">
-                                            <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                            <img class="main-img img-fluid" src="/assets/shop/images/tab-9.png" alt="">
+                                            <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                             <div class="layer-box">
-                                                <a href="" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="images/it-comp.png" alt=""></a>
-                                                <a href="" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="images/it-fav.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="left" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
+                                                <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="left" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
                                             </div>
                                         </div>
                                         <div class="tab-heading">
-                                            <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                            <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                         </div>
                                         <div class="img-content d-flex justify-content-between">
                                             <div>
@@ -546,7 +546,7 @@
                                                 </ul>
                                             </div>
                                             <div>
-                                                <a href="" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="images/it-cart.png" alt=""></a>
+                                                <a href="/product/samsung" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/assets/shop/images/it-cart.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -560,8 +560,8 @@
                                         <div class="row">
                                             <div class="col-lg-4 col-md-12">
                                                 <div class="tab-img">
-                                                    <img class="main-img img-fluid" src="images/tab-1.png" alt="">
-                                                    <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                                    <img class="main-img img-fluid" src="/assets/shop/images/tab-1.png" alt="">
+                                                    <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                                     <span class="sale">Sale</span>
                                                 </div>
                                             </div>
@@ -572,7 +572,7 @@
                                                             <li class="list-inline-item"><a href="#">Home Appliance,</a></li>
                                                             <li class="list-inline-item"><a href="#">Smart Led</a></li>
                                                         </ul>
-                                                        <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                                        <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                                         <ul class="list-unstyled list-inline fav">
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
@@ -590,9 +590,9 @@
                                                 </div>
                                                 <div class="item-content">
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem atque dolores aliquid culpa maiores beatae est quod officia veniam fugit? Molestiae, illum voluptatibus nisi error recusandae cum expedita. Laborum, expedita!</p>
-                                                    <a href="" class="it-cart"><span class="it-img"><img src="images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
-                                                    <a href="" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="images/it-fav.png" alt=""></a>
-                                                    <a href="" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="images/it-comp.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-cart"><span class="it-img"><img src="/assets/shop/images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
+                                                    <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -603,8 +603,8 @@
                                         <div class="row">
                                             <div class="col-lg-4 col-md-12">
                                                 <div class="tab-img">
-                                                    <img class="main-img img-fluid" src="images/tab-2.png" alt="">
-                                                    <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                                    <img class="main-img img-fluid" src="/assets/shop/images/tab-2.png" alt="">
+                                                    <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                                 </div>
                                             </div>
                                             <div class="col-lg-8 col-md-12">
@@ -614,7 +614,7 @@
                                                             <li class="list-inline-item"><a href="#">Home Appliance,</a></li>
                                                             <li class="list-inline-item"><a href="#">Smart Led</a></li>
                                                         </ul>
-                                                        <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                                        <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                                         <ul class="list-unstyled list-inline fav">
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
@@ -632,9 +632,9 @@
                                                 </div>
                                                 <div class="item-content">
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem atque dolores aliquid culpa maiores beatae est quod officia veniam fugit? Molestiae, illum voluptatibus nisi error recusandae cum expedita. Laborum, expedita!</p>
-                                                    <a href="" class="it-cart"><span class="it-img"><img src="images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
-                                                    <a href="" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="images/it-fav.png" alt=""></a>
-                                                    <a href="" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="images/it-comp.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-cart"><span class="it-img"><img src="/assets/shop/images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
+                                                    <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -645,8 +645,8 @@
                                         <div class="row">
                                             <div class="col-lg-4 col-md-12">
                                                 <div class="tab-img">
-                                                    <img class="main-img img-fluid" src="images/tab-3.png" alt="">
-                                                    <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                                    <img class="main-img img-fluid" src="/assets/shop/images/tab-3.png" alt="">
+                                                    <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                                     <span class="new">New</span>
                                                 </div>
                                             </div>
@@ -657,7 +657,7 @@
                                                             <li class="list-inline-item"><a href="#">Home Appliance,</a></li>
                                                             <li class="list-inline-item"><a href="#">Smart Led</a></li>
                                                         </ul>
-                                                        <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                                        <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                                         <ul class="list-unstyled list-inline fav">
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
@@ -675,9 +675,9 @@
                                                 </div>
                                                 <div class="item-content">
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem atque dolores aliquid culpa maiores beatae est quod officia veniam fugit? Molestiae, illum voluptatibus nisi error recusandae cum expedita. Laborum, expedita!</p>
-                                                    <a href="" class="it-cart"><span class="it-img"><img src="images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
-                                                    <a href="" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="images/it-fav.png" alt=""></a>
-                                                    <a href="" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="images/it-comp.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-cart"><span class="it-img"><img src="/assets/shop/images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
+                                                    <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -688,8 +688,8 @@
                                         <div class="row">
                                             <div class="col-lg-4 col-md-12">
                                                 <div class="tab-img">
-                                                    <img class="main-img img-fluid" src="images/tab-4.png" alt="">
-                                                    <img class="sec-img img-fluid" src="images/tab-16.png" alt="">
+                                                    <img class="main-img img-fluid" src="/assets/shop/images/tab-4.png" alt="">
+                                                    <img class="sec-img img-fluid" src="/assets/shop/images/tab-16.png" alt="">
                                                 </div>
                                             </div>
                                             <div class="col-lg-8 col-md-12">
@@ -699,7 +699,7 @@
                                                             <li class="list-inline-item"><a href="#">Home Appliance,</a></li>
                                                             <li class="list-inline-item"><a href="#">Smart Led</a></li>
                                                         </ul>
-                                                        <p><a href="">Samsung Smart Led Tv 42"</a></p>
+                                                        <p><a href="/product/samsung">Samsung Smart Led Tv 42"</a></p>
                                                         <ul class="list-unstyled list-inline fav">
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
                                                             <li class="list-inline-item"><i class="fa fa-star"></i></li>
@@ -717,9 +717,9 @@
                                                 </div>
                                                 <div class="item-content">
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem atque dolores aliquid culpa maiores beatae est quod officia veniam fugit? Molestiae, illum voluptatibus nisi error recusandae cum expedita. Laborum, expedita!</p>
-                                                    <a href="" class="it-cart"><span class="it-img"><img src="images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
-                                                    <a href="" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="images/it-fav.png" alt=""></a>
-                                                    <a href="" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="images/it-comp.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-cart"><span class="it-img"><img src="/assets/shop/images/it-cart.png" alt=""></span><span class="it-title">Add To Cart</span></a>
+                                                    <a href="/product/samsung" class="it-fav" data-toggle="tooltip" data-placement="top" title="Favourite"><img src="/assets/shop/images/it-fav.png" alt=""></a>
+                                                    <a href="/product/samsung" class="it-comp" data-toggle="tooltip" data-placement="top" title="Compare"><img src="/assets/shop/images/it-comp.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -730,14 +730,14 @@
                     </div>
                     <div class="pagination-box text-center">
                         <ul class="list-unstyled list-inline">
-                            <li class="list-inline-item"><a href="">1</a></li>
-                            <li class="list-inline-item"><a href="">2</a></li>
-                            <li class="active list-inline-item"><a href="">3</a></li>
-                            <li class="list-inline-item"><a href="">4</a></li>
-                            <li class="list-inline-item"><a href="">...</a></li>
-                            <li class="list-inline-item"><a href="">12</a></li>
-                            <li class="list-inline-item"><a href=""><i class="fa fa-angle-right"></i></a></li>
-                            <li class="list-inline-item"><a href=""><i class="fa fa-angle-double-right"></i></a></li>
+                            <li class="list-inline-item"><a href="/product/samsung">1</a></li>
+                            <li class="list-inline-item"><a href="/product/samsung">2</a></li>
+                            <li class="active list-inline-item"><a href="/product/samsung">3</a></li>
+                            <li class="list-inline-item"><a href="/product/samsung">4</a></li>
+                            <li class="list-inline-item"><a href="/product/samsung">...</a></li>
+                            <li class="list-inline-item"><a href="/product/samsung">12</a></li>
+                            <li class="list-inline-item"><a href="/product/samsung"><i class="fa fa-angle-right"></i></a></li>
+                            <li class="list-inline-item"><a href="/product/samsung"><i class="fa fa-angle-double-right"></i></a></li>
                         </ul>
                     </div>
                 </div>

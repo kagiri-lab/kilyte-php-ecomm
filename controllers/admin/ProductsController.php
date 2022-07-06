@@ -4,21 +4,21 @@ namespace app\controllers\admin;
 
 use kilyte\Controller;
 
-class AdminProductController extends Controller
+class ProductsController extends Controller
 {
-    public function adminProductList()
+    public function productsList()
     {
         $this->setLayout('admin.main');
         return $this->render([], 'admin.ecommerce.product.list');
     }
 
-    public function adminProductDetails()
+    public function productDetails()
     {
         $this->setLayout('admin.main');
         return $this->render([], 'admin.ecommerce.product.details');
     }
 
-    public function adminProductRegister()
+    public function registerProduct()
     {
         $this->setLayout('admin.main');
         return $this->render([], 'admin.ecommerce.product.register');

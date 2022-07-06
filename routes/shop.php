@@ -3,7 +3,12 @@
 namespace app\routes;
 
 use app\controllers\shop\AuthController;
+use app\controllers\shop\CartController;
+use app\controllers\shop\CategoryController;
+use app\controllers\shop\CheckoutController;
+use app\controllers\shop\ProductsController;
 use app\controllers\shop\ShopController;
+use app\controllers\shop\WishListController;
 use kilyte\Application;
 
 class Shop
@@ -17,24 +22,18 @@ class Shop
     public function route($route)
     {
         // $route->get(ShopController::class, [
-        //     '/' => 'shopIndex',
-        //     '/my-account' => 'shopMyAccount',
-        //     '/login' => 'shopLogin',
-        //     '/register' => 'shopRegister',
-        //     '/contact' => 'shopContact',
-        //     '/about' => 'shopAbout',
-        //     '/faq' => 'shopFaq',
-        //     '/privacy-policy' => 'shopPrivacy',
-        //     '/terms-conditions' => 'shopTerms',
-        //     '/category/{name}' => 'shopCategory',
-        //     '/product/{item}' => 'shopItem',
-        //     '/wish-list' => 'shopWishlist',
-        //     '/shopping-cart' => 'shopCart',
-        //     '/checkout' => 'shopCheckout'
+
+        //     
+        //     
         // ]);
 
         $route->get(ShopController::class, [
-            '/' => 'shopIndex'
+            '/' => 'shopIndex',
+            '/about' => 'shopAbout',
+            '/contact' => 'shopContact',
+            '/faq' => 'shopFaq',
+            '/privacy-policy' => 'shopPrivacy',
+            '/terms-conditions' => 'shopTerms'
         ]);
 
         $route->get(AuthController::class, [
@@ -43,8 +42,24 @@ class Shop
         ]);
 
         $route->get(AuthController::class, [
-            'account' => 'myAccount'
+            'my-account' => 'myAccount'
         ], '/', 'auth');
 
+        $route->get(CartController::class, [
+            '/shopping-cart' => 'shopCart'
+        ]);
+
+        $route->get(WishListController::class, [
+            '/wish-list' => 'shopWishlist',
+        ]);
+
+        $route->get(CheckoutController::class, [
+            '/checkout' => 'shopCheckout'
+        ]);
+
+        $route->get(ProductsController::class, [
+            '/category/{name}' => 'category',
+            '/product/{item}' => 'product',
+        ]);
     }
 }

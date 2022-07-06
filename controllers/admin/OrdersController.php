@@ -5,10 +5,10 @@ namespace app\controllers\admin;
 use kilyte\Controller;
 use kilyte\Http\Request;
 
-class AdminOrdersController extends Controller
+class OrdersController extends Controller
 {
 
-    public function adminOrderDetails(Request $request)
+    public function orderDetails(Request $request)
     {
         $this->setLayout('admin.main');
         return $this->render([
@@ -16,7 +16,7 @@ class AdminOrdersController extends Controller
         ], 'admin.ecommerce.orders.details');
     }
 
-    public function adminOrderList()
+    public function orderList()
     {
         $this->setLayout('admin.main');
         return $this->render([], 'admin.ecommerce.orders.list');
