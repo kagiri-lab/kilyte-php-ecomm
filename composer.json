@@ -12,6 +12,6 @@
     }
   },
   "require": {
-    "kilyte/kilyte-php-core": "^1.1"
+    "kilyte/core": "^1.4"
   }
 }
