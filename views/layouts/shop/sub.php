@@ -22,12 +22,12 @@ require('header.php') ?>
                 <div class="col-md-6">
                     <div class="top-left d-flex">
                         <div class="lang-box">
-                            <span><img src="assets/shop/images/fl-eng.png" alt="">English<i class="fa fa-angle-down"></i></span>
+                            <span><img src="/assets/shop/images/fl-eng.png" alt="">English<i class="fa fa-angle-down"></i></span>
                             <ul class="list-unstyled">
-                                <li><img src="assets/shop/images/fl-eng.png" alt="">English</li>
-                                <li><img src="assets/shop/images/fl-fra.png" alt="">French</li>
-                                <li><img src="assets/shop/images/fl-ger.png" alt="">German</li>
-                                <li><img src="assets/shop/images/fl-bra.png" alt="">Brazilian</li>
+                                <li><img src="/assets/shop/images/fl-eng.png" alt="">English</li>
+                                <li><img src="/assets/shop/images/fl-fra.png" alt="">French</li>
+                                <li><img src="/assets/shop/images/fl-ger.png" alt="">German</li>
+                                <li><img src="/assets/shop/images/fl-bra.png" alt="">Brazilian</li>
                             </ul>
                         </div>
                         <div class="mny-box">
@@ -39,17 +39,17 @@ require('header.php') ?>
                             </ul>
                         </div>
                         <div class="call-us">
-                            <p><img src="assets/shop/images/phn.png" alt="">+1 (111) 426 6573</p>
+                            <p><img src="/assets/shop/images/phn.png" alt="">+1 (111) 426 6573</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="top-right text-right">
                         <ul class="list-unstyled list-inline">
-                            <li class="list-inline-item"><a href="/my-account"><img src="assets/shop/images/user.png" alt="">My Account</a></li>
-                            <li class="list-inline-item"><a href="/wish-list"><img src="assets/shop/images/wishlist.png" alt="">Wishlist</a></li>
-                            <li class="list-inline-item"><a href="/checkout"><img src="assets/shop/images/checkout.png" alt="">Checkout</a></li>
-                            <li class="list-inline-item"><a href="/login"><img src="assets/shop/images/login.png" alt="">Login</a></li>
+                            <li class="list-inline-item"><a href="/my-account"><img src="/assets/shop/images/user.png" alt="">My Account</a></li>
+                            <li class="list-inline-item"><a href="/wish-list"><img src="/assets/shop/images/wishlist.png" alt="">Wishlist</a></li>
+                            <li class="list-inline-item"><a href="/checkout"><img src="/assets/shop/images/checkout.png" alt="">Checkout</a></li>
+                            <li class="list-inline-item"><a href="/login"><img src="/assets/shop/images/login.png" alt="">Login</a></li>
                         </ul>
                     </div>
                 </div>
@@ -64,7 +64,7 @@ require('header.php') ?>
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <a href="/"><img src="assets/shop/images/logo.png" alt=""></a>
+                        <a href="/"><img src="/assets/shop/images/logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-7 padding-fix">
@@ -89,13 +89,13 @@ require('header.php') ?>
                     <div class="carts-area d-flex">
                         <div class="wsh-box ml-auto">
                             <a href="" data-toggle="tooltip" data-placement="top" title="Wishlist">
-                                <img src="assets/shop/images/heart.png" alt="favorite">
+                                <img src="/assets/shop/images/heart.png" alt="favorite">
                                 <span>0</span>
                             </a>
                         </div>
                         <div class="cart-box ml-4">
                             <a href="" data-toggle="tooltip" data-placement="top" title="Shopping Cart" class="cart-btn">
-                                <img src="assets/shop/images/cart.png" alt="cart">
+                                <img src="/assets/shop/images/cart.png" alt="cart">
                                 <span>2</span>
                             </a>
                         </div>
@@ -114,7 +114,7 @@ require('header.php') ?>
             <div class="row">
                 <div class="col-lg-2 col-md-3">
                     <div class="sticky-logo">
-                        <a href="/"><img src="assets/shop/images/logo.png" alt="" class="img-fluid"></a>
+                        <a href="/"><img src="/assets/shop/images/logo.png" alt="" class="img-fluid"></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-7">
@@ -135,13 +135,13 @@ require('header.php') ?>
                         </div>
                         <div class="wsh-box ml-auto">
                             <a href="" data-toggle="tooltip" data-placement="top" title="Wishlist">
-                                <img src="/assets/shop/images/heart.png" alt="favorite">
+                                <img src="//assets/shop/images/heart.png" alt="favorite">
                                 <span>0</span>
                             </a>
                         </div>
                         <div class="cart-box ml-4">
                             <a href="" data-toggle="tooltip" data-placement="top" title="Shopping Cart" class="cart-btn">
-                                <img src="/assets/shop/images/cart.png" alt="cart">
+                                <img src="//assets/shop/images/cart.png" alt="cart">
                                 <span>2</span>
                             </a>
                         </div>
@@ -189,7 +189,7 @@ require('header.php') ?>
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <nav id="dropdown">
-                            <a href="/"><img src="assets/shop/images/logo.png" alt=""></a>
+                            <a href="/"><img src="/assets/shop/images/logo.png" alt=""></a>
                             <a href="/login"><span>Sign In</span></a>
                             <ul class="list-unstyled">
                                 <li><a href="/">Home</a></li>
