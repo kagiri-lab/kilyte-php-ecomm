@@ -1,3 +1,9 @@
+<?php
+
+$this->title = "Category - {{site-name}}";
+
+?>
+
 <!-- Breadcrumb Area -->
 <section class="breadcrumb-area">
     <div class="container">

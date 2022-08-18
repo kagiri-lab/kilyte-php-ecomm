@@ -11,4 +11,6 @@ class AdminController extends Controller
         $this->setLayout('admin.main');
         return $this->render([], 'admin.index');
     }
+
+
 }

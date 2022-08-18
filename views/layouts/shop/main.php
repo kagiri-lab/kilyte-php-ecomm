@@ -24,13 +24,10 @@ require('header.php'); ?>
                             <span><img src="assets/shop/images/fl-eng.png" alt="">English<i class="fa fa-angle-down"></i></span>
                             <ul class="list-unstyled">
                                 <li><img src="assets/shop/images/fl-eng.png" alt="">English</li>
-                                <li><img src="assets/shop/images/fl-fra.png" alt="">French</li>
-                                <li><img src="assets/shop/images/fl-ger.png" alt="">German</li>
-                                <li><img src="assets/shop/images/fl-bra.png" alt="">Brazilian</li>
                             </ul>
                         </div>
                         <div class="mny-box">
-                            <span>USD<i class="fa fa-angle-down"></i></span>
+                            <span>KSH<i class="fa fa-angle-down"></i></span>
                             <ul class="list-unstyled">
                                 <li>USD</li>
                                 <li>GBP</li>

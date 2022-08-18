@@ -12,7 +12,6 @@
                                     <!--/.bg-holder-->
 
                                     <div class="z-index-1 position-relative"><a class="link-light mb-4 font-sans-serif fs-4 d-inline-block fw-bolder" href="/">{{site-name}}</a>
-                                        <p class="opacity-75 text-white">With the power of Falcon, you can now focus only on functionaries for your digital products, while leaving the UI design on us!</p>
                                     </div>
                                 </div>
                                 <div class="mt-3 mb-4 mt-md-4 mb-md-5 light">
@@ -41,22 +40,11 @@
                                                 <input class="form-control" type="password" autocomplete="on" id="card-confirm-password" />
                                             </div>
                                         </div>
-                                        <div class="form-check">
-                                            <input class="form-check-input" type="checkbox" id="card-register-checkbox" />
-                                            <label class="form-label" for="card-register-checkbox">I accept the <a href="#!">terms </a>and <a href="#!">privacy policy</a></label>
-                                        </div>
                                         <div class="mb-3">
                                             <button class="btn btn-primary d-block w-100 mt-3" type="submit" name="submit">Register</button>
                                         </div>
                                     </form>
-                                    <div class="position-relative mt-4">
-                                        <hr class="bg-300" />
-                                        <div class="divider-content-center">or register with</div>
-                                    </div>
-                                    <div class="row g-2 mt-2">
-                                        <div class="col-sm-6"><a class="btn btn-outline-google-plus btn-sm d-block w-100" href="#"><span class="fab fa-google-plus-g me-2" data-fa-transform="grow-8"></span> google</a></div>
-                                        <div class="col-sm-6"><a class="btn btn-outline-facebook btn-sm d-block w-100" href="#"><span class="fab fa-facebook-square me-2" data-fa-transform="grow-8"></span> facebook</a></div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>

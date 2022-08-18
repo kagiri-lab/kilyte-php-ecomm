@@ -55,7 +55,8 @@ class MenuItems
             "User" => [
                 "Login" => "/admin/login",
                 "Register" => "/admin/register"
-            ]
+            ],
+            "Vehicles" => "/admin/query/vehicle/list"
         ];
     }
 }

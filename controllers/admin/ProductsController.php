@@ -18,9 +18,11 @@ class ProductsController extends Controller
         return $this->render([], 'admin.ecommerce.product.details');
     }
 
-    public function registerProduct()
+    public function productRegister()
     {
         $this->setLayout('admin.main');
         return $this->render([], 'admin.ecommerce.product.register');
     }
+
+    
 }

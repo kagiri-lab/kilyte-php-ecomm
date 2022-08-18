@@ -12,6 +12,7 @@
     }
   },
   "require": {
-    "kilyte/core": "^1.4"
+    "kilyte/core": "^1.4",
+    "kilyte/lsdk": "^1.0"
   }
 }

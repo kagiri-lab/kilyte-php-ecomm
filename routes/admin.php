@@ -7,6 +7,7 @@ use app\controllers\admin\AuthController;
 use app\controllers\admin\CustomersController;
 use app\controllers\admin\OrdersController;
 use app\controllers\admin\ProductsController;
+use app\controllers\admin\QueryController;
 use kilyte\Application;
 
 class Admin
@@ -21,7 +22,7 @@ class Admin
     public function route($route)
     {
         $route->get(AdminController::class, [
-            '/' => 'index',
+            '/' => 'index'
         ], 'admin');
 
         $route->get(AuthController::class, [
@@ -33,7 +34,7 @@ class Admin
             '/confirm-email' => 'confirmEmail'
         ], 'admin');
 
-        $route->get(OrdersController ::class, [
+        $route->get(OrdersController::class, [
             '/order/get/{number}' => 'orderDetails',
             '/order/list' => 'orderList'
         ], 'admin');
@@ -47,6 +48,16 @@ class Admin
         $route->get(CustomersController::class, [
             '/customer/get/{id}' => 'customerDetails',
             '/customer/list' => 'customersList'
+        ], 'admin');
+
+        $route->get(QueryController::class, [
+            '/query/{vehicle}' => 'queryVehicle',
+            '/query/task/{vehicle}/{task}' => 'queryTask',
+            '/query/vehicle/list' => 'listQueries'
+        ], 'admin');
+
+        $route->post(QueryController::class, [
+            '/query/vehicle/list' => 'listQueries'
         ], 'admin');
     }
 }

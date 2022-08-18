@@ -2,16 +2,15 @@
 
 use kilyte\Application;
 
-class m0001_initial {
+class m_taskqueries {
     public function up()
     {
         $db = Application::$app->db;
-        $SQL = "CREATE TABLE users (
+        $SQL = "CREATE TABLE taskqueries (
                 id INT AUTO_INCREMENT PRIMARY KEY,
-                email VARCHAR(255) NOT NULL,
-                firstname VARCHAR(255) NOT NULL,
-                lastname VARCHAR(255) NOT NULL,
-                status TINYINT DEFAULT 0,
+                registration VARCHAR(255) NOT NULL,
+                task LONGTEXT NOT NULL,
+                result LONGTEXT NOT NULL,
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
             )  ENGINE=INNODB;";
         $db->pdo->exec($SQL);
@@ -20,7 +19,7 @@ class m0001_initial {
     public function down()
     {
         $db = Application::$app->db;
-        $SQL = "DROP TABLE users;";
+        $SQL = "DROP TABLE taskqueries;";
         $db->pdo->exec($SQL);
     }
 }
