@@ -5,6 +5,7 @@ namespace app\routes;
 use app\controllers\admin\AdminController;
 use app\controllers\admin\AuthController;
 use app\controllers\admin\CustomersController;
+use app\controllers\admin\ImportController;
 use app\controllers\admin\OrdersController;
 use app\controllers\admin\ProductsController;
 use app\controllers\admin\QueryController;
@@ -58,6 +59,10 @@ class Admin
 
         $route->post(QueryController::class, [
             '/query/vehicle/list' => 'listQueries'
+        ], 'admin');
+
+        $route->post(ImportController::class, [
+            '/import/csv' => 'importCsv'
         ], 'admin');
     }
 }

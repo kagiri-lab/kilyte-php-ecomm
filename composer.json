@@ -13,6 +13,7 @@
   },
   "require": {
     "kilyte/core": "^1.4",
-    "kilyte/lsdk": "^1.0"
+    "kilyte/lsdk": "^1.0",
+    "league/csv": "^9.8"
   }
 }
