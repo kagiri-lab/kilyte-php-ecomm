@@ -47,16 +47,18 @@ class MenuItems
     {
         return [
             "Orders" => "/admin/order/list",
-            "Products" => [
+            "Parts" => [
                 "List" => "/admin/product/list",
-                "Register" => "/admin/product/register"
+                "Register" => "/admin/product/register",
+                "Catalog" => "/admin/catalog/list",
+                "Import" => "/admin/import/products"
             ],
             "Customers" => "/admin/customer/list",
+            "Vehicles" => "/admin/query/vehicle/list",
             "User" => [
                 "Login" => "/admin/login",
                 "Register" => "/admin/register"
             ],
-            "Vehicles" => "/admin/query/vehicle/list"
         ];
     }
 }

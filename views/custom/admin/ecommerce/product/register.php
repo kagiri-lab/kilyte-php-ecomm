@@ -7,10 +7,6 @@
         </div>
     </div>
 </div>
-<div class="card cover-image mb-3"><img class="card-img-top" src="../../assets/img/generic/13.jpg" alt="" />
-    <input class="d-none" id="upload-cover-image" type="file" />
-    <label class="cover-image-file-input" for="upload-cover-image"><span class="fas fa-camera me-2"></span><span>Change cover photo</span></label>
-</div>
 <div class="row g-0">
     <div class="col-lg-8 pe-lg-2">
         <div class="card mb-3">

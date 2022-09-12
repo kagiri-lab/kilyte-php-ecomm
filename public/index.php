@@ -4,7 +4,6 @@
 require_once __DIR__ . '/../vendor/autoload.php';
 
 use app\routes\Admin;
-use app\routes\API;
 use app\routes\Migrate;
 use app\routes\Shop;
 
@@ -18,7 +17,6 @@ $app->layout = 'shop.main';
 // });
 
 $webroutes = new Shop($app);
-$apiroutes = new API($app);
 $migration = new Migrate($app);
 $admin = new Admin($app);
 

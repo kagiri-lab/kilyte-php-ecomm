@@ -1,0 +1,2722 @@
+{
+    "catalog": [
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OVERHAUL GASKET KIT",
+            "OE_Number": "04111-67140",
+            "Description": "GASKET KIT, ENGINE OVERHAUL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "90910-02112",
+            "Description": "BOLT(FOR CYLINDER HEAD SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11101-69175",
+            "Description": "BOLT(FOR CYLINDER HEAD SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "90910-02112",
+            "Description": "SPACER(FOR CYLINDER HEAD SET BOLT)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11115-67050-01",
+            "Description": "GASKET, CYLINDER HEAD",
+            "Description2": "MARK 1, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11115-67050-03",
+            "Description": "GASKET, CYLINDER HEAD",
+            "Description2": "MARK 3, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11115-67050-05",
+            "Description": "GASKET, CYLINDER HEAD",
+            "Description2": "MARK 5, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11122-67020",
+            "Description": "BUSH, INTAKE VALVE GUIDE",
+            "Description2": "STD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11123-67020",
+            "Description": "BUSH, INTAKE VALVE GUIDE",
+            "Description2": "O/S 0.05"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11122-67020",
+            "Description": "BUSH, EXHAUST VALVE GUIDE",
+            "Description2": "STD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11123-67020",
+            "Description": "BUSH, EXHAUST VALVE GUIDE",
+            "Description2": "O/S 0.05"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "90253-11021",
+            "Description": "PIN, RING(FOR CAMSHAFT BEARING CAP SETTING)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "90253-10004",
+            "Description": "PIN, RING W/HEAD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "90116-06149",
+            "Description": "BOLT, STUD(FOR HEAD TO CYLINDER HEAD COVER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11183-67020",
+            "Description": "PLUG, SEMICIRCULAR"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11210-67031",
+            "Description": "COVER SUB-ASSY, CYLINDER HEAD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "11213-67010",
+            "Description": "GASKET, CYLINDER HEAD COVER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER HEAD",
+            "OE_Number": "12180-55010",
+            "Description": "CAP SUB-ASSY, OIL FILLER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "11401-80766",
+            "Description": "BLOCK SUB-ASSY, CYLINDER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90919-05005",
+            "Description": "SENSOR, CRANK POSITION"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90910-09087",
+            "Description": "PLUG, WATER DRAIN COCK(FOR CYLINDER BLOCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90910-02113",
+            "Description": "BOLT(FOR CRANKSHAFT BEARING CAP SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90116-06171",
+            "Description": "BOLT, STUD(FOR OIL FILTER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "96411-64500",
+            "Description": "PLUG, TIGHT, NO.1(FOR CYLINDER BLOCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "96411-63500",
+            "Description": "PLUG, TIGHT, NO.2(FOR CYLINDER BLOCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "96411-64000",
+            "Description": "PLUG, TIGHT, NO.3(FOR CYLINDER BLOCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90331-35004",
+            "Description": "PLUG, TIGHT, NO.4(FOR CYLINDER BLOCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "96411-62000",
+            "Description": "PLUG, TIGHT, NO.5(FOR CYLINDER BLOCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "96411-61800",
+            "Description": "PLUG, TIGHT, NO.6(FOR CYLINDER BLOCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90331-14006",
+            "Description": "PLUG, TIGHT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90250-08120",
+            "Description": "PIN, STRAIGHT(FOR TIMING GEAR COVER SET)",
+            "Description2": "L=18, OD=8"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90250-06068",
+            "Description": "PIN, STRAIGHT(FOR ENGINE REAR OIL SEAL)",
+            "Description2": "L=11, OD=6"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90250-10192",
+            "Description": "PIN, STRAIGHT(FOR END PLATE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90253-15016",
+            "Description": "PIN, RING (FOR CYLINDER HEAD SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "11448-67010",
+            "Description": "ORIFICE, CYLINDER BLOCK OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "11452-67050",
+            "Description": "GUIDE, OIL LEVEL GAGE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "12101-30080",
+            "Description": "PAN SUB-ASSY, OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90341-12012",
+            "Description": "PLUG(FOR OIL PAN DRAIN)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "90430-12031",
+            "Description": "GASKET(FOR OIL PAN DRAIN PLUG)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "12102-30020",
+            "Description": "PAN SUB-ASSY, OIL, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "12104-30010",
+            "Description": "COVER SUB-ASSY, OIL PAN, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "12151-30020",
+            "Description": "GASKET, OIL PAN"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "12156-30010",
+            "Description": "INSULATOR, OIL PAN"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "12582-67010",
+            "Description": "INSULATOR, CYLINDER BLOCK, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "15301-67031",
+            "Description": "GAGE SUB-ASSY, OIL LEVEL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "15605-54010",
+            "Description": "VALVE SUB-ASSY, OIL CHECK"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CYLINDER BLOCK",
+            "OE_Number": "15708-30011",
+            "Description": "NOZZLE SUB-ASSY, OIL, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90250-08120",
+            "Description": "PIN, STRAIGHT(FOR TIMING GEAR CASE)",
+            "Description2": "L=18, OD=8"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90301-22007",
+            "Description": "RING, O(FOR TIMING GEAR CASE, UPPER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90301-09018",
+            "Description": "RING, O(FOR TIMING GEAR CASE, LOWER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90341-18015",
+            "Description": "PLUG, W/HEAD STRAIGHT SCREW(FOR TIMING GEAR CASE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90311-58006",
+            "Description": "SEAL, TYPE T OIL(FOR INJECTION PUMP)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11302-67020",
+            "Description": "COVER SUB-ASSY, TIMING CHAIN OR BELT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90311-50017",
+            "Description": "SEAL, OIL(FOR TIMING CHAIN OR BELT COVER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90116-08374",
+            "Description": "BOLT, STUD(FOR TIMING GEAR COVER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90311-32019",
+            "Description": "SEAL, OIL(FOR OIL SEAL RETAINER, NO.2)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11320-67010",
+            "Description": "CASE ASSY, TIMING GEAR"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11321-67032",
+            "Description": "CASE, TIMING GEAR"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11328-67020",
+            "Description": "GASKET, TIMING GEAR OR CHAIN COVER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11354-30010",
+            "Description": "SEAL, FLYWHEEL HOUSING DUST"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11355-67011",
+            "Description": "PLATE, REAR END"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11381-67020",
+            "Description": "RETAINER, ENGINE REAR OIL SEAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "90311-95008",
+            "Description": "SEAL, ENGINE REAR OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11382-67010",
+            "Description": "RETAINER, CAMSHAFT OIL SEAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "11391-67010",
+            "Description": "POINTER, TIMING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "TIMING GEAR COVER & REAR END PLATE ",
+            "OE_Number": "15134-67010",
+            "Description": "GASKET, OIL PUMP RELIEF VALVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "12311-67050",
+            "Description": "BRACKET, ENGINE MOUNTING, FRONT NO.1 RH"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "12315-67030",
+            "Description": "BRACKET, ENGINE MOUNTING, FRONT NO.1 LH"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "12361-67030",
+            "Description": "INSULATOR, ENGINE MOUNTING, FRONT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "12371-30060",
+            "Description": "INSULATOR, ENGINE MOUNTING, REAR NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "12381-67020",
+            "Description": "STABILIZER, ENGINE MOUNTING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "12381-67020",
+            "Description": "STABILIZER, ENGINE MOUNTING, LH"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "12511-67020",
+            "Description": "BRACKET, ALTERNATOR, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MOUNTING",
+            "OE_Number": "90389-10039",
+            "Description": "BUSH, ALTERNATOR BRACKET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VENTILATION HOSE",
+            "OE_Number": "12229-67020",
+            "Description": "PIPE, VENTILATION"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VENTILATION HOSE",
+            "OE_Number": "12261-67010",
+            "Description": "HOSE, VENTILATION"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VENTILATION HOSE",
+            "OE_Number": "12262-67020",
+            "Description": "HOSE, VENTILATION, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11011-30010",
+            "Description": "WASHER SET, CRANKSHAFT THRUST",
+            "Description2": "STD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11012-30010",
+            "Description": "WASHER SET, CRANKSHAFT THRUST",
+            "Description2": "O/S 0.125"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11013-30010",
+            "Description": "WASHER SET, CRANKSHAFT THRUST",
+            "Description2": "O/S 0.250"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11704-30020",
+            "Description": "BEARING SET, CRANKSHAFT",
+            "Description2": "U/S 0.25"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11705-30020",
+            "Description": "BEARING SET, CRANKSHAFT",
+            "Description2": "U/S 0.50"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11701-30020-02",
+            "Description": "BEARING, CRANKSHAFT",
+            "Description2": "MARK2, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11701-30020-03",
+            "Description": "BEARING, CRANKSHAFT",
+            "Description2": "MARK3, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11701-30020-04",
+            "Description": "BEARING, CRANKSHAFT",
+            "Description2": "MARK4, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11701-30020-05",
+            "Description": "BEARING, CRANKSHAFT",
+            "Description2": "MARK5, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11701-30020-06",
+            "Description": "BEARING, CRANKSHAFT",
+            "Description2": "MARK6, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "11991-67010",
+            "Description": "WASHER, BALANCESHAFT THRUST"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13011-67030",
+            "Description": "RING SET, PISTON",
+            "Description2": "STD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13013-67030",
+            "Description": "RING SET, PISTON",
+            "Description2": "O/S 0.50"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13014-67030",
+            "Description": "RING SET, PISTON",
+            "Description2": "O/S 0.75"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13015-67030",
+            "Description": "RING SET, PISTON",
+            "Description2": "O/S 1.00"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13041-30020-02",
+            "Description": "BEARING, CONNECTING ROD",
+            "Description2": "MARK2, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13041-30020-03",
+            "Description": "BEARING, CONNECTING ROD",
+            "Description2": "MARK3, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13041-30020-04",
+            "Description": "BEARING, CONNECTING ROD",
+            "Description2": "MARK4, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13041-30020-05",
+            "Description": "BEARING, CONNECTING ROD",
+            "Description2": "MARK5, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13041-30020-06",
+            "Description": "BEARING, CONNECTING ROD",
+            "Description2": "MARK6, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13101-67050-01",
+            "Description": "PISTON SUB-ASSY, W/PIN",
+            "Description2": "STD, MARK 1, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13101-67050-02",
+            "Description": "PISTON SUB-ASSY, W/PIN",
+            "Description2": "STD, MARK 2, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13101-67050-03",
+            "Description": "PISTON SUB-ASSY, W/PIN",
+            "Description2": "STD, MARK 3, REFER REPAIR MANUAL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13103-67050",
+            "Description": "PISTON SUB-ASSY, W/PIN",
+            "Description2": "O/S 0.50"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13104-67050",
+            "Description": "PISTON SUB-ASSY, W/PIN",
+            "Description2": "O/S 0.75"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13105-67050",
+            "Description": "PISTON SUB-ASSY, W/PIN",
+            "Description2": "O/S 1.00"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90520-37014",
+            "Description": "RING, HOLE SNAP(FOR PISTON PIN)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13201-67021",
+            "Description": "ROD SUB-ASSY, CONNECTING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90999-73136",
+            "Description": "BUSH(FOR CONNECTING ROD SMALL END)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13204-30020",
+            "Description": "BEARING SET, CONNECTING ROD",
+            "Description2": "U/S 0.25"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13205-30020",
+            "Description": "BEARING SET, CONNECTING ROD",
+            "Description2": "U/S 0.50"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13265-67021",
+            "Description": "BOLT, CONNECTING ROD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13405-67060",
+            "Description": "FLYWHEEL SUB-ASSY"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90250-10192",
+            "Description": "PIN, STRAIGHT(FOR FLYWHEEL)",
+            "Description2": "L=22, OD=10"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90105-13010",
+            "Description": "BOLT, FLYWHEEL SETTING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13401-30010",
+            "Description": "CRANKSHAFT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13453-67030",
+            "Description": "GEAR, FLYWHEEL RING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13408-67020",
+            "Description": "PULLEY, CRANKSHAFT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "95161-30516",
+            "Description": "KEY, CRANKSHAFT(FOR CRANKSHAFT PULLEY SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90119-18003",
+            "Description": "BOLT(FOR CRANKSHAFT PULLEY SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90250-05027",
+            "Description": "PIN, STRAIGHT(FOR IDLE GEAR)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13521-67020",
+            "Description": "GEAR OR SPROCKET, CRANKSHAFT TIMING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13508-67011",
+            "Description": "GEAR, IDLE, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13537-67900",
+            "Description": "GEAR, IDLE SUB, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13538-67900",
+            "Description": "GEAR, IDLE SUB, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90206-69001",
+            "Description": "WASHER, WAVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90520-58002",
+            "Description": "RING, SHAFT SNAP"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13572-67041",
+            "Description": "PLATE, IDLE GEAR THRUST"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13578-67010",
+            "Description": "SPRING, IDLE GEAR"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13581-67041",
+            "Description": "SHAFT, IDLE GEAR, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13601-67020",
+            "Description": "BALANCESHAFT SUB-ASSY, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13602-67020",
+            "Description": "BALANCESHAFT SUB-ASSY, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13613-67902",
+            "Description": "GEAR, INJECTION"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "90363-60004",
+            "Description": "BEARING, RADIAL BALL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13632-67010",
+            "Description": "GEAR, BALANCESHAFT DRIVEN, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CRANKSHAFT & PISTON",
+            "OE_Number": "13633-67010",
+            "Description": "GEAR, BALANCESHAFT DRIVEN, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13505-67041",
+            "Description": "IDLER SUB-ASSY, TIMING BELT, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13501-67010",
+            "Description": "CAMSHAFT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "90201-10124",
+            "Description": "WASHER, PLATE(FOR DISTRIBUTOR DRIVE GEAR)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "90280-05004",
+            "Description": "KEY, WOODRUFF(FOR TIMING GEAR)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13523-17010",
+            "Description": "PULLEY, CAMSHAFT TIMING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13528-67010",
+            "Description": "GEAR, CAMSHAFT DRIVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13540-67020",
+            "Description": "TENSIONER ASSY, CHAIN, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13556-67010",
+            "Description": "SHAFT, TIMING BELT IDLER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13568-69085",
+            "Description": "BELT, TIMING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13585-67010",
+            "Description": "FLANGE, CAMSHAFT TIMING PULLEY, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13711-54040",
+            "Description": "VALVE, INTAKE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "90504-49001",
+            "Description": "SPRING, COMPRESSION(FOR INNER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "90201-23003",
+            "Description": "WASHER, PLATE(FOR VALVE SPRING SEAT)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "90913-02118",
+            "Description": "SEAL, INTAKE VALVE STEM OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13715-67040",
+            "Description": "VALVE, EXHAUST"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "90913-02118",
+            "Description": "SEAL, EXHAUST VALVE STEM OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13741-54020",
+            "Description": "RETAINER, VALVE SPRING"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "90913-03014",
+            "Description": "LOCK, VALVE SPRING RETAINER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13751-54010",
+            "Description": "LIFTER, VALVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54010",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.50, MARK=T01"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54060",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.60, MARK=T06"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54110",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.70, MARK=T11"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54160",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.80, MARK=T16"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54210",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.90, MARK=T21"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54260",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=3.00, MARK=T26"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54310",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=3.10, MARK=T31"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54360",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=3.20, MARK=T36"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54410",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=3.30, MARK=T41"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54420",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.55, MARK=T42"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54430",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.65, MARK=T43"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54440",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.75, MARK=T44"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54450",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.85, MARK=T45"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54460",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=2.95, MARK=T46"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54470",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=3.05, MARK=T47"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54480",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=3.15, MARK=T48"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "CAMSHAFT & VALVE",
+            "OE_Number": "13753-54490",
+            "Description": "SHIM, VALVE ADJUSTING",
+            "Description2": "T=3.25, MARK=T49"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "15104-30040",
+            "Description": "STRAINER SUB-ASSY, OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "90116-06140",
+            "Description": "BOLT, STUD(FOR OIL STRAINER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "15131-46040",
+            "Description": "VALVE, OIL PUMP RELIEF"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "15132-17010",
+            "Description": "SPRING, OIL PUMP RELIEF VALVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "15133-17010",
+            "Description": "PLUG, OIL PUMP RELIEF VALVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "15134-67020",
+            "Description": "GASKET, OIL PUMP RELIEF VALVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "15149-67010",
+            "Description": "GASKET, OIL STRAINER FLANGE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL PUMP",
+            "OE_Number": "15193-67011",
+            "Description": "GASKET, OIL PUMP"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "OIL FILTER",
+            "OE_Number": "15116-54021",
+            "Description": "UNION(FOR OIL FILTER)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "OIL FILTER",
+            "OE_Number": "90915-30002",
+            "Description": "FILTER SUB-ASSY, OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "OIL FILTER",
+            "OE_Number": "90341-20002",
+            "Description": "PLUG, W/HEAD STRAIGHT SCREW(FOR OIL FILTER BRACKET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "OIL FILTER",
+            "OE_Number": "15134-67020",
+            "Description": "GASKET, W/HEAD STRAIGHT SCREW PLUG"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "OIL FILTER",
+            "OE_Number": "15690-64010",
+            "Description": "VALVE ASSY, OIL COOLER RELIEF"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "OIL FILTER",
+            "OE_Number": "15701-67031",
+            "Description": "COVER SUB-ASSY, OIL COOLER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "OIL FILTER",
+            "OE_Number": "15725-67010",
+            "Description": "GASKET, OIL COOLER COVER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL COOLER",
+            "OE_Number": "15710-67040",
+            "Description": "COOLER ASSY, OIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ENGINE OIL COOLER",
+            "OE_Number": "15785-30010",
+            "Description": "GASKET, OIL COOLER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "WATER PUMP",
+            "OE_Number": "16100-69356",
+            "Description": "PUMP ASSY, ENGINE WATER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "WATER PUMP",
+            "OE_Number": "16159-70040",
+            "Description": "PIN, RING(FOR WATER PUMP SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "WATER PUMP",
+            "OE_Number": "16110-69045",
+            "Description": "PUMP ASSY, WATER, W/O COVER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "WATER PUMP",
+            "OE_Number": "16124-67010",
+            "Description": "GASKET, WATER PUMP COVER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "WATER PUMP",
+            "OE_Number": "16210-67030",
+            "Description": "COUPLING ASSY, FLUID"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "WATER PUMP",
+            "OE_Number": "16271-67020",
+            "Description": "GASKET, WATER PUMP"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "WATER PUMP",
+            "OE_Number": "16371-67020",
+            "Description": "PULLEY, FAN"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16261-30050",
+            "Description": "HOSE, WATER BY-PASS, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "96135-51300",
+            "Description": "CLIP(FOR WATER BY-PASS HOSE NO.1)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16264-30020",
+            "Description": "HOSE, WATER BY-PASS, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16361-67020",
+            "Description": "FAN"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16400-67213",
+            "Description": "RADIATOR ASSY"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "23322-54010",
+            "Description": "PLUG, RADIATOR DRAIN COCK"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16492-21050",
+            "Description": "PACKING(FOR RADIATOR DRAIN COCK)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16401-53010",
+            "Description": "CAP SUB-ASSY, RADIATOR RESERVE TANK"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16470-30030",
+            "Description": "TANK ASSY, RADIATOR RESERVE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16533-50090",
+            "Description": "SUPPORT, RADIATOR, NO.1",
+            "Description2": "NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16534-50050",
+            "Description": "SUPPORT, RADIATOR, NO.1",
+            "Description2": "NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16534-50050",
+            "Description": "SUPPORT, RADIATOR, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90467-21010",
+            "Description": "CLIP(FOR RADIATOR RESERVE TANK HOSE)",
+            "Description2": "NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90467-22011",
+            "Description": "CLIP(FOR RADIATOR RESERVE TANK HOSE)",
+            "Description2": "NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16571-67110",
+            "Description": "HOSE, RADIATOR, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90466-41008",
+            "Description": "CLIP, RADIATOR HOSE, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16572-30050",
+            "Description": "HOSE, RADIATOR, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90466-41008",
+            "Description": "CLIP, RADIATOR HOSE, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16711-30041",
+            "Description": "SHROUD, FAN"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16027-67011",
+            "Description": "PIPE SUB-ASSY, TURBO WATER, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16206-67010",
+            "Description": "PIPE SUB-ASSY, WATER BY-PASS"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16207-30010",
+            "Description": "PIPE SUB-ASSY, WATER BY-PASS, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16258-67010",
+            "Description": "GASKET(FOR HEATER RETURN)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16278-67010",
+            "Description": "PIPE, WATER BY-PASS, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "96761-24010",
+            "Description": "RING, O(FOR WATER BY-PASS NO.2 PIPE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16285-67010",
+            "Description": "HOSE, TURBO WATER, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90467-15022",
+            "Description": "CLIP(FOR TURBO WATER HOSE NO.2)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90405-10044",
+            "Description": "UNION(FOR TURBO WATER HOSE NO.2)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16284-67020",
+            "Description": "HOSE, TURBO WATER, NO.3"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90467-15022",
+            "Description": "CLIP(FOR TURBO WATER HOSE NO.3)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16321-30031",
+            "Description": "INLET, WATER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16331-67020",
+            "Description": "OUTLET, WATER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "90916-03121",
+            "Description": "THERMOSTAT",
+            "Description2": "*WAX 71-85"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16341-67020",
+            "Description": "GASKET, WATER OUTLET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16346-0K010",
+            "Description": "GASKET, THERMOSTAT",
+            "Description2": "(L)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16346-67010",
+            "Description": "GASKET, THERMOSTAT",
+            "Description2": "(J)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "RADIATOR & WATER OUTLET",
+            "OE_Number": "16347-67010",
+            "Description": "GASKET(FOR TURBO WATER PIPE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "V-BELT",
+            "OE_Number": "90916-02385",
+            "Description": "BELT, V(FOR FAN & ALTERNATOR)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "V-BELT",
+            "OE_Number": "90916-02390",
+            "Description": "BELT, V (COOLER COMPRESSOR TO CRANKSHAFT PULLEY), NO.1",
+            "Description2": "L=1165, AIR CONDITIONER-DUAL AUTO"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "15407-67010",
+            "Description": "PIPE SUB-ASSY, TURBO OIL INLET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90401-12097",
+            "Description": "BOLT, UNION(FOR TURBO OIL INLET PIPE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90904-30004",
+            "Description": "GASKET(FOR TURBO OIL INLET PIPE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "15471-58010",
+            "Description": "GASKET, TURBO OIL INLET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "15472-67010",
+            "Description": "GASKET, TURBO OIL OUTLET, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "16347-67010",
+            "Description": "GASKET(FOR TURBO WATER PIPE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17101-67041",
+            "Description": "MANIFOLD, INTAKE",
+            "Description2": "SOUTH AFRICA SPEC"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17111-67071",
+            "Description": "MANIFOLD, INTAKE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17104-67010",
+            "Description": "MANIFOLD, EXHAUST"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17104-67020",
+            "Description": "MANIFOLD, EXHAUST",
+            "Description2": "SOUTH AFRICA SPEC"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90116-10088",
+            "Description": "BOLT, STUD(FOR MANIFOLD TO EXHAUST PIPE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90126-10037",
+            "Description": "BOLT, STUD(FOR MANIFOLD TO CYLINDER HEAD)",
+            "Description2": "NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "92122-80822",
+            "Description": "BOLT, STUD(FOR MANIFOLD TO CYLINDER HEAD)",
+            "Description2": "NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17167-67040",
+            "Description": "INSULATOR, EXHAUST MANIFOLD HEAT, NO.1",
+            "Description2": "SOUTH AFRICA SPEC"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17173-30020",
+            "Description": "SOUTH AFRICA SPEC",
+            "Description2": "SOUTH AFRICA SPEC"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17177-67011",
+            "Description": "SOUTH AFRICA SPEC",
+            "Description2": "SOUTH AFRICA SPEC"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17201-67040",
+            "Description": "TURBOCHARGER SUB-ASSY"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17271-67030",
+            "Description": "INSULATOR, TURBO, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17274-67011",
+            "Description": "ELBOW, COMPRESSOR INLET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17276-67010",
+            "Description": "GASKET, COMPRESSOR INLET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17278-67010",
+            "Description": "GASKET, TURBO TO EXHAUST MANIFOLD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17279-67010",
+            "Description": "GASKET, TURBINE OUTLET ELBOW"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17291-67040",
+            "Description": "ELBOW, TURBINE OUTLET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17293-67011",
+            "Description": "STAY, TURBOCHARGER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17296-28010",
+            "Description": "PLATE, BEARING HOUSING, SIDE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "04175-67020",
+            "Description": "GASKET KIT, TURBOCHARGER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90116-08158",
+            "Description": "BOLT, STUD(FOR BEARING HOUSING)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90116-06048",
+            "Description": "BOLT, STUD"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90116-10175",
+            "Description": "BOLT, STUD(FOR TURBINE HOUSING)",
+            "Description2": "NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90126-08009",
+            "Description": "BOLT, STUD(FOR TURBINE HOUSING)",
+            "Description2": "NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17201-67040",
+            "Description": "TURBOCHARGER SUB-ASSY"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "17230-69145",
+            "Description": "REPAIR ACTUAOR ASSY, W/BRACKET"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90201-08081",
+            "Description": "WASHER, PLATE(FOR REPAIR ACTUATOR SET)",
+            "Description2": "T=0.5"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90201-08082",
+            "Description": "WASHER, PLATE(FOR REPAIR ACTUATOR SET)",
+            "Description2": "T=1.0"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90201-08086",
+            "Description": "WASHER, PLATE(FOR REPAIR ACTUATOR SET)",
+            "Description2": "T=2.0"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90201-08087",
+            "Description": "WASHER, PLATE(FOR REPAIR ACTUATOR SET)",
+            "Description2": "T=3.0"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "91621-60822",
+            "Description": "BOLT, W/WASHER(FOR REPAIR ACTUATOR SET)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "90445-12265",
+            "Description": "HOSE, ACTUATOR"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "MANIFOLD",
+            "OE_Number": "96132-51100",
+            "Description": "CLIP(FOR ACTUATOR HOSE)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17410-67040",
+            "Description": "PIPE ASSY, EXHAUST, FRONT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "90179-10070",
+            "Description": "NUT, EXHAUST PIPE SET STUD BOLT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "90917-06090",
+            "Description": "GASKET, EXHAUST PIPE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17420-62310",
+            "Description": "PIPE ASSY, EXHAUST, CENTER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "90917-06072",
+            "Description": "GASKET, EXHAUST PIPE, CENTER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17430-30030",
+            "Description": "PIPE ASSY, EXHAUST, TAIL"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17451-74051",
+            "Description": "GASKET, EXHAUST PIPE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17565-22040",
+            "Description": "SUPPORT, EXHAUST PIPE, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17565-22040",
+            "Description": "SUPPORT, EXHAUST PIPE, NO.2"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17565-22040",
+            "Description": "SUPPORT, EXHAUST PIPE, NO.3"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17565-22040",
+            "Description": "SUPPORT,EXHAUST PIPE, NO.4"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17565-74320",
+            "Description": "SUPPORT, EXHAUST PIPE, NO.5"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST",
+            "OE_Number": "17571-50140",
+            "Description": "BRACKET, EXHAUST PIPE NO.1 SUPPORT"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17700-67221",
+            "Description": "CLEANER ASSY, AIR"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17705-67190",
+            "Description": "CAP SUB-ASSY, AIR CLEANER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17743-75010",
+            "Description": "VALVE, DUST RELIEF"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17801-30040",
+            "Description": "ELEMENT SUB-ASSY, AIR CLEANER FILTER"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17881-67110",
+            "Description": "HOSE, AIR CLEANER, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "96111-30710",
+            "Description": "CLAMP(FOR AIR CLEANER HOSE, NO.1)"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17893-30020",
+            "Description": "RESONATOR, INTAKE AIR"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "96111-30380",
+            "Description": "CLAMP, HOSE"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17971-62010",
+            "Description": "INLET, COOL AIR, NO.1"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17116-67021",
+            "Description": "GASKET, INTAKE FLANGE",
+            "DIYPRICE": "$6.64"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17341-67010",
+            "Description": "HOSE, AIR, NO.1",
+            "DIYPRICE": "$44.48"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17342-67030",
+            "Description": "HOSE, AIR, NO.2",
+            "DIYPRICE": "$48.71"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17860-67030",
+            "Description": "CONNECTOR, INTAKE AIR",
+            "DIYPRICE": "$81.88"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17940-67060",
+            "Description": "INTERCOOLER ASSY",
+            "DIYPRICE": "$1,366.52"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17943-67030",
+            "Description": "PROTECTOR, INTERCOOLER",
+            "DIYPRICE": "$88.09"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17945-67010",
+            "Description": "BRACKET, INTERCOOLER SUPPORT",
+            "DIYPRICE": "$7.27"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "AIR CLEANER",
+            "OE_Number": "17946-67030",
+            "Description": "BRACKET, INTERCOOLER SUPPORT, NO.2",
+            "DIYPRICE": "$17.24"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PIPING",
+            "OE_Number": "90910-12185",
+            "Description": "VALVE, VACUUM SWITCHING",
+            "DIYPRICE": "$86.39"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PIPING",
+            "OE_Number": "90917-11038",
+            "Description": "FILTER, GAS, NO.1",
+            "DIYPRICE": "$31.35"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PIPING",
+            "OE_Number": "25706-67020",
+            "Description": "PIPE SUB-ASSY, VACUUM TRANSMITTING, NO.1",
+            "DIYPRICE": "$18.66"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PIPING",
+            "OE_Number": "25707-67011",
+            "Description": "PIPE SUB-ASSY, VACUUM TRANSMITTING, NO.2",
+            "DIYPRICE": "$12.30"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "IGNITION COIL & SPARK PLUG / GLOW PLUG",
+            "OE_Number": "19850-67030",
+            "Description": "PLUG ASSY, GLOW",
+            "Description2": "*BV-GV=12V-11V",
+            "DIYPRICE": "$72.78"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "IGNITION COIL & SPARK PLUG / GLOW PLUG",
+            "OE_Number": "90189-04024",
+            "Description": "GROMMET, SCREW(FOR GLOW PLUG)",
+            "DIYPRICE": "$0.87"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "IGNITION COIL & SPARK PLUG / GLOW PLUG",
+            "OE_Number": "19871-67030",
+            "Description": "CONNECTOR, GLOW PLUG NO.1",
+            "DIYPRICE": "$7.47"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "16381-67020",
+            "Description": "BAR, FAN BELT ADJUSTING",
+            "DIYPRICE": "$10.36"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "16385-67010",
+            "Description": "SLIDER, FAN BELT ADJUSTING",
+            "DIYPRICE": "$8.46"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "27060-67140",
+            "Description": "ALTERNATOR ASSY",
+            "Description2": "12V 80A",
+            "DIYPRICE": "$766.51"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "90105-10092",
+            "Description": "BOLT(FOR ALTERNATOR)",
+            "DIYPRICE": "$2.06"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "27330-74550",
+            "Description": "ROTOR ASSY, ALTERNATOR",
+            "DIYPRICE": "$253.83"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "27357-55080",
+            "Description": "HOLDER, ALTERNATOR, W/RECTIFIER",
+            "DIYPRICE": "$167.44"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "27370-75060",
+            "Description": "HOLDER ASSY, ALTERNATOR BRUSH",
+            "DIYPRICE": "$24.67"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "27411-67060",
+            "Description": "PULLEY, ALTERNATOR",
+            "DIYPRICE": "$57.61"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "ALTERNATOR",
+            "OE_Number": "27700-50030",
+            "Description": "REGULATOR ASSY, GENERATOR",
+            "DIYPRICE": "$211.22"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "STARTER",
+            "OE_Number": "28011-67030",
+            "Description": "CLUTCH SUB-ASSY, STARTER",
+            "DIYPRICE": "$164.29"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "STARTER",
+            "OE_Number": "28100-67050",
+            "Description": "STARTER ASSY",
+            "Description2": "12V 2.2KW",
+            "DIYPRICE": "$784.34"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "STARTER",
+            "OE_Number": "28120-64040",
+            "Description": "YOKE ASSY, STARTER",
+            "DIYPRICE": "$331.08"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "STARTER",
+            "OE_Number": "28140-64040",
+            "Description": "HOLDER ASSY, STARTER BRUSH",
+            "DIYPRICE": "$54.84"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "STARTER",
+            "OE_Number": "28150-67050",
+            "Description": "SWITCH ASSY, MAGNET STARTER",
+            "DIYPRICE": "$172.23"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "STARTER",
+            "OE_Number": "28160-64041",
+            "Description": "ARMATURE ASSY, STARTER",
+            "DIYPRICE": "$143.16"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29300-67020",
+            "Description": "PUMP ASSY, VACUUM",
+            "DIYPRICE": "$708.90"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "90099-10185",
+            "Description": "BEARING, BALL",
+            "DIYPRICE": "$23.68"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29303-67020",
+            "Description": "ROTOR SUB-ASSY, VACUUM PUMP",
+            "DIYPRICE": "$30.32"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29311-76010",
+            "Description": "PIN, VACUUM PUMP DOWEL, NO.1",
+            "DIYPRICE": "$1.11"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29331-67020",
+            "Description": "BLADE, VACUUM PUMP, A",
+            "DIYPRICE": "$19.69"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29336-58050",
+            "Description": "SHAFT, VACUUM PUMP",
+            "DIYPRICE": "$66.46"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29342-67020",
+            "Description": "PACKING, VACUUM PUMP",
+            "Description2": "NO.1",
+            "DIYPRICE": "$6.05"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29342-68010",
+            "Description": "PACKING, VACUUM PUMP",
+            "Description2": "NO.2",
+            "DIYPRICE": "$1.94"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29342-58010",
+            "Description": "RING, O",
+            "DIYPRICE": "$8.58"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29351-67020",
+            "Description": "GEAR, VACUUM PUMP",
+            "DIYPRICE": "$70.65"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29364-66010",
+            "Description": "WASHER, VACUUM PUMP",
+            "DIYPRICE": "$5.22"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VACUUM PUMP",
+            "OE_Number": "29369-64030",
+            "Description": "VALVE SUB-ASSY, CHECK",
+            "DIYPRICE": "$129.21"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "11106-67052",
+            "Description": "CHAMBER SUB-ASSY, COMBUSTION",
+            "DIYPRICE": "$208.64"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "11165-67030",
+            "Description": "SHIM(FOR COMBUSTION CHAMBER)",
+            "Description2": "T=0.05",
+            "DIYPRICE": "$4.98"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "11166-67030",
+            "Description": "SHIM(FOR COMBUSTION CHAMBER)",
+            "Description2": "T=0.10",
+            "DIYPRICE": "$4.98"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "90250-02046",
+            "Description": "PIN, STRAIGHT(FOR COMBUSTION CHAMBER)",
+            "DIYPRICE": "$1.27"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "11176-67011",
+            "Description": "SEAT, INJECTION NOZZLE",
+            "DIYPRICE": "$1.62"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "11177-64010",
+            "Description": "GASKET, INJECTION NOZZLE SEAT",
+            "DIYPRICE": "$2.10"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23600-69165",
+            "Description": "HOLDER & NOZZLE SET, NOZZLE",
+            "DIYPRICE": "$270.00"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23618-64080",
+            "Description": "SPRING, NOZZLE HOLDER PRESSURE",
+            "DIYPRICE": "$5.14"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23619-64010",
+            "Description": "PIN, NOZZLE HOLDER PRESSURE",
+            "DIYPRICE": "$3.20"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23620-69105",
+            "Description": "NOZZLE ASSY",
+            "DIYPRICE": "$124.11"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23624-64041",
+            "Description": "NUT, NOZZLE RETAINING",
+            "DIYPRICE": "$10.44"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23628-64010",
+            "Description": "NUT(FOR RING PACKING SETTING)",
+            "DIYPRICE": "$3.20"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23629-54080",
+            "Description": "PIECE, DISTANCE(FOR NOZZLE)",
+            "DIYPRICE": "$4.15"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23631-64010",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=0.900",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23631-64012",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=0.950",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23631-64014",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.000",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23631-64016",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.050",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23631-64018",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.100",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23632-64010",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.150",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23632-64012",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.200",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23632-64014",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.250",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23632-64016",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.300",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23632-64018",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.350",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23633-64010",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.400",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23633-64012",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.450",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23633-64014",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.500",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23633-64016",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.550",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23633-64018",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.600",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23634-64010",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.650",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23634-64012",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.700",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23634-64014",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.750",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23634-64016",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.800",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23634-64018",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.850",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23635-64010",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.900",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23635-64012",
+            "Description": "WASHER(FOR NOZZLE HOLDER PRESSURE SPRING)",
+            "Description2": "T=1.950",
+            "DIYPRICE": "$1.19"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23654-64010",
+            "Description": "WASHER(FOR RING PACKING)",
+            "DIYPRICE": "$2.25"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23760-67030",
+            "Description": "PIPE ASSY, NOZZLE LEAKAGE",
+            "DIYPRICE": "$44.87"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "23764-67050",
+            "Description": "PIPE, NOZZLE LEAKAGE, NO.4",
+            "DIYPRICE": "$22.65"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "95333-04020",
+            "Description": "HOSE, FUEL",
+            "Description2": "*H, L=170",
+            "DIYPRICE": "$5.02"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION NOZZLE",
+            "OE_Number": "90467-10149",
+            "Description": "CLAMP OR CLIP(FOR FUEL HOSE SET)",
+            "DIYPRICE": "$3.08"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "22100-67120",
+            "Description": "PUMP ASSY, INJECTION OR SUPPLY",
+            "DIYPRICE": "$6,590.46"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23271-67180",
+            "Description": "HOSE OR PIPE, FUEL(FOR INJECTION PUMP TO FUEL FILTER)",
+            "DIYPRICE": "$25.70"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23273-67120",
+            "Description": "HOSE, FUEL(FOR INJECTION PUMP TO FUEL PIPE)",
+            "DIYPRICE": "$7.75"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23273-67130",
+            "Description": "FUEL TANK-W(FUEL SUB TANK) 180L",
+            "DIYPRICE": "$8.74"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "22811-67010",
+            "Description": "STAY, INJECTION PUMP, NO.1",
+            "DIYPRICE": "$25.78"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23701-67021",
+            "Description": "PIPE SUB-ASSY, INJECTION, NO.1",
+            "DIYPRICE": "$32.89"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23702-67021",
+            "Description": "PIPE SUB-ASSY, INJECTION, NO.2",
+            "DIYPRICE": "$32.89"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23703-67031",
+            "Description": "PIPE SUB-ASSY, INJECTION, NO.3",
+            "DIYPRICE": "$33.01"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23704-67020",
+            "Description": "PIPE SUB-ASSY, INJECTION, NO.4",
+            "DIYPRICE": "$32.89"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23741-64030",
+            "Description": "CLAMP, INJECTION PIPE, NO.1",
+            "DIYPRICE": "$6.29"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23742-67010",
+            "Description": "CLAMP, INJECTION PIPE, NO.2",
+            "DIYPRICE": "$4.27"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP ASSEMBLY",
+            "OE_Number": "23811-67020",
+            "Description": "PIPE, FUEL(FOR FUEL FILTER TO INJECTION PUMP)",
+            "DIYPRICE": "$20.36"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22104-67100",
+            "Description": "VALVE SUB-ASSY, INJECTION PUMP DELIVERY",
+            "DIYPRICE": "$73.66"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22119-77020",
+            "Description": "WASHER, AIR BLEEDER NIPPLE",
+            "DIYPRICE": "$2.41"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22148-54010",
+            "Description": "SPRING, DELIVERY VALVE",
+            "DIYPRICE": "$8.54"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22149-56351",
+            "Description": "GASKET, DELIVERY VALVE",
+            "DIYPRICE": "$3.04"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22160-67100",
+            "Description": "SCREW SUB-ASSY, OVERFLOW",
+            "DIYPRICE": "$50.49"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22176-54640",
+            "Description": "PLUG, DISTRIBUTIVE HEAD",
+            "DIYPRICE": "$30.40"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22193-54772",
+            "Description": "RING, O(FOR DISTRIBUTIVE HEAD PLUG)",
+            "DIYPRICE": "$5.30"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "22190-6A680",
+            "Description": "VALVE SUB-ASSY, SNUBBER",
+            "DIYPRICE": "$22.02"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "INJECTION PUMP BODY",
+            "OE_Number": "23010-67010",
+            "Description": "VALVE ASSY, TIMING CONTROL",
+            "DIYPRICE": "$324.01"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23380-30160",
+            "Description": "CAP ASSY, FUEL FILTER",
+            "DIYPRICE": "$159.14"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23390-30180",
+            "Description": "ELEMENT SUB-ASSY, FUEL FILTER",
+            "DIYPRICE": "$43.05"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23388-64470",
+            "Description": "PLUG, DRAIN(FOR FUEL FILTER)",
+            "DIYPRICE": "$6.84"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23344-54010",
+            "Description": "RING, O(FOR DRAIN PLUG)",
+            "DIYPRICE": "$2.33"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23385-30160",
+            "Description": "GASKET(FOR FUEL FILTER)",
+            "DIYPRICE": "$3.76"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23344-64010",
+            "Description": "GASKET(FOR WARNING SWITCH)",
+            "DIYPRICE": "$4.27"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23382-30160",
+            "Description": "CASE, FUEL FILTER",
+            "DIYPRICE": "$5.69"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23388-30160",
+            "Description": "PLUG, FUEL FILTER DRAIN",
+            "DIYPRICE": "$4.47"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23388-30170",
+            "Description": "PLUG, FUEL FILTER DRAIN",
+            "DIYPRICE": "$4.07"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "23921-30050",
+            "Description": "SUPPORT, FUEL FILTER",
+            "DIYPRICE": "$33.96"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "FUEL FILTER",
+            "OE_Number": "84461-60090",
+            "Description": "SWITCH, LEVEL WARNING",
+            "DIYPRICE": "$86.86"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST GAS RECIRCULATION SYSTEM",
+            "OE_Number": "25601-67021",
+            "Description": "PIPE SUB-ASSY, EGR, NO.1",
+            "DIYPRICE": "$114.14"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST GAS RECIRCULATION SYSTEM",
+            "OE_Number": "90410-26001",
+            "Description": "SLEEVE, BALL, EGR PIPE, NO.1",
+            "DIYPRICE": "$6.09"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST GAS RECIRCULATION SYSTEM",
+            "OE_Number": "90402-33002",
+            "Description": "NUT, UNION, EGR PIPE, NO.1",
+            "DIYPRICE": "$16.61"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST GAS RECIRCULATION SYSTEM",
+            "OE_Number": "25627-67030",
+            "Description": "GASKET, EGR VALVE",
+            "DIYPRICE": "$4.11"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST GAS RECIRCULATION SYSTEM",
+            "OE_Number": "25628-67010",
+            "Description": "GASKET, EGR INLET",
+            "DIYPRICE": "$2.73"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "EXHAUST GAS RECIRCULATION SYSTEM",
+            "OE_Number": "25800-67060",
+            "Description": "VALVE ASSY, ELECTRIC EGR CONTROL",
+            "DIYPRICE": "$352.75"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VENTURI",
+            "OE_Number": "26100-67100",
+            "Description": "VENTURI ASSY",
+            "DIYPRICE": "$210.22"
+        },
+        {
+            "Category": "ENGINE",
+            "Category2": "VENTURI",
+            "OE_Number": "26171-67030",
+            "Description": "GASKET, VENTURI",
+            "DIYPRICE": "$6.56"
+        }
+    ]
+}

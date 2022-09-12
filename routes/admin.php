@@ -7,6 +7,7 @@ use app\controllers\admin\AuthController;
 use app\controllers\admin\CustomersController;
 use app\controllers\admin\ImportController;
 use app\controllers\admin\OrdersController;
+use app\controllers\admin\PartCatalogController;
 use app\controllers\admin\ProductsController;
 use app\controllers\admin\QueryController;
 use kilyte\Application;
@@ -61,8 +62,18 @@ class Admin
             '/query/vehicle/list' => 'listQueries'
         ], 'admin');
 
+        $route->get(ImportController::class, [
+            '/import/products' => 'importCsv',
+            '/update/stock' => 'readCsv'
+        ], 'admin');
+
         $route->post(ImportController::class, [
-            '/import/csv' => 'importCsv'
+            '/import/products' => 'importCsv'
+        ], 'admin');
+
+        $route->get(PartCatalogController::class, [
+            '/import/catalog' => 'import',
+            '/catalog/list' => 'partCatalog',
         ], 'admin');
     }
 }

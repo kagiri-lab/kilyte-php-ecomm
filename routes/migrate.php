@@ -5,7 +5,8 @@ namespace app\routes;
 use kilyte\Application;
 use kilyte\database\Migration;
 
-class Migrate{
+class Migrate
+{
 
     private Application $app;
 
@@ -15,11 +16,12 @@ class Migrate{
         $this->register();
     }
 
-    public function register(){
+    public function register()
+    {
 
         $this->app->router->get(Migration::class, [
-            'tables' => 'apply'
+            'tables' => 'apply',
+            'generate/migrate' => 'generate'
         ]);
     }
-
 }
